@@ -5,3 +5,7 @@ See [charcoal #132](https://github.com/dib-lab/charcoal/issues/132) and [a twitt
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/ctb/2020-charcoal-sankey/render?filepath=index.ipynb)
 
 Note, the above binder is built off of the `render` branch.
+
+## Static images for various genomes
+
+![foo](static-images/GCA_001421185.1_genomic.fna.gz.png)
