@@ -27,6 +27,10 @@ This first genome is a mix of Archaea and Bacteria!
 
 ![GCA_001421185](static-images/GCA_001421185.1_genomic.fna.gz.png)
 
+Oh, hey, another mixture of archaea and bacteria!
+
+![GCF_000492175](static-images/GCF_000492175.1_genomic.fna.gz.png)
+
 Mixed phyla...
 
 ![GCA_003220225](static-images/GCA_003220225.1_genomic.fna.gz.png)
@@ -43,15 +47,7 @@ Mixed phyla again...
 
 ![GCA_003222535](static-images/GCA_003222535.1_genomic.fna.gz.png)
 
-Oh, hey, a mixture of archaea and bacteria!
-
-![GCF_000492175](static-images/GCF_000492175.1_genomic.fna.gz.png)
-
 Mixed phyla...
-
-![GCF_000763125](static-images/GCF_000763125.1_genomic.fna.gz.png)
-
-Maybe a teensy bit of contamination?
 
 ![GCF_001078575](static-images/GCF_001078575.1_genomic.fna.gz.png)
 
@@ -73,17 +69,21 @@ Mixed phyla...
 
 Mixed phyla...
 
+![GCF_000763125](static-images/GCF_000763125.1_genomic.fna.gz.png)
+
+Maybe a teensy bit of contamination?
+
 ![GCF_001749745](static-images/GCF_001749745.1_genomic.fna.gz.png)
 
-Teensy bit of contamination.
+More teensy bit of contamination.
 
 ![GCF_002154655](static-images/GCF_002154655.1_genomic.fna.gz.png)
 
-Teensy bit of contamination.
+Even more teensy bit of contamination.
 
 ![GCF_002901805](static-images/GCF_002901805.1_genomic.fna.gz.png)
 
-Teensy bit of contamination.
+Even yet more teensy bit of contamination.
 
 ![GCF_900016235](static-images/GCF_900016235.2_genomic.fna.gz.png)
 
