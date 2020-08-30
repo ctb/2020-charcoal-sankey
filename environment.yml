@@ -1,0 +1,12 @@
+name: 2020-charcoal-sankey
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - screed=1.0.1
+    - sourmash<4
+    - plotly
+    - pip
+    - pip:
+      - git+https://github.com/dib-lab/charcoal.git@alluvial_flow_figs
