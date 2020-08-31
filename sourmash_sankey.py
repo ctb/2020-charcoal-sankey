@@ -16,9 +16,6 @@ class GenomeSankeyFlow:
         # src/dest connections for links in sankey diagram
         self.links_d = {}
 
-        # track all genus-level lineages
-        self.genus_lins = set()
-
         # build the set of (rank1, rank2) for all pairs; stop at species.
         taxlist_pairs = []
         for rank in taxlist():
@@ -70,37 +67,14 @@ class GenomeSankeyFlow:
         d1[dest] = (color, total_count)
         self.links_d[src] = d1
 
-    def process_contigs(self, contigs_info):
-        "Process a set of charcoal contig-level gather tax."
-        counts = collections.Counter()
-        for contig_name, gather_info in contigs_info.items():
-            contig_taxlist = gather_info.gather_tax
-
-            # note: contig_taxlist may be empty here. handle?
-
-            # iterate over each contig match and summarize counts.
-            # note - here we can stop at first one, or track them all.
-            # note - b/c gather counts each hash only once, these
-            #     are non-overlapping
-            total_hashcount = 0
-            for lin, hashcount in contig_taxlist:
-                self.genus_lins.add(lin)
-                
-                counts[lin] += hashcount
-                total_hashcount += hashcount
-
-            unident = gather_info.num_hashes - total_hashcount
-            counts[self.unassigned_lin] += unident
-                
-        return counts
-                
     def make_links(self, genome_lineage, counts, show_unassigned=False):
         "Put all of the links together."
-        # collect the set of lineages to display - by default, all.
+        # collect the set of lineages to display
         # note: could add a filter function to focus in on a specific 'un
-        genus_lins = set(self.genus_lins)
-        if show_unassigned:
-            genus_lins.add(self.unassigned_lin)
+        genus_lins = set(counts.keys())
+        if not show_unassigned:
+            if self.unassigned_lin in genus_lins:
+                genus_lins.remove(self.unassigned_lin)
 
         for lin in genus_lins:
             count = counts[lin]
@@ -146,12 +120,8 @@ class GenomeSankeyFlow:
                
         return src_l, dest_l, cnt_l, color_l, label_l
     
-    def make_plotly_fig(self, genome_lineage, contigs_info, title=None):
+    def make_plotly_fig(self, title):
         "Build a plotly figure/sankey diagram."
-        # count all the things...
-        counts = self.process_contigs(contigs_info)
-        self.make_links(genome_lineage, counts)
-
         # make the data to go into the sankey figure.
         labels = self.make_labels()
         src_l, dest_l, cnt_l, color_l, label_l = self.make_lists()
@@ -175,7 +145,6 @@ class GenomeSankeyFlow:
 
         if title:
             fig.update_layout(title_text=title, font_size=10)
-        else:
-            fig.update_layout(title_text=f"genome lin: {sourmash.lca.display_lineage(genome_lineage)}", font_size=10)
+
         return fig
     
