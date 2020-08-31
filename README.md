@@ -17,76 +17,29 @@ You can download
 [sankey-diagrams.html](https://github.com/ctb/2020-charcoal-sankey/blob/latest/sankey-diagrams.html)
 to get this in an interactive format.
 
-### An example MAG with minimal contamination
+### Contaminated genomes
 
-![LoombaR_2017__SID1050_bax__bin.11](static-images/LoombaR_2017__SID1050_bax__bin.11.fa.gz.png)
-
-### Contaminated genbank genomes
-
-This first genome is a mix of Archaea and Bacteria!
+This first GenBank genome is a mix of Archaea and Bacteria!
 
 ![GCA_001421185](static-images/GCA_001421185.1_genomic.fna.gz.png)
 
-Oh, hey, another mixture of archaea and bacteria!
-
-![GCF_000492175](static-images/GCF_000492175.1_genomic.fna.gz.png)
-
-Mixed phyla...
-
-![GCA_003220225](static-images/GCA_003220225.1_genomic.fna.gz.png)
-
-Mixed phyla again...
-
-![GCA_003221985](static-images/GCA_003221985.1_genomic.fna.gz.png)
-
-Mixed phyla again...
-
-![GCA_003222275](static-images/GCA_003222275.1_genomic.fna.gz.png)
-
-Mixed phyla again...
-
-![GCA_003222535](static-images/GCA_003222535.1_genomic.fna.gz.png)
-
-Mixed phyla...
-
-![GCF_001078575](static-images/GCF_001078575.1_genomic.fna.gz.png)
-
-Hmm, this looks suspicious...
-
-![GCF_001184205](static-images/GCF_001184205.1_genomic.fna.gz.png)
-
-Mixed phyla.
-
-![GCF_001408335](static-images/GCF_001408335.1_genomic.fna.gz.png)
-
-Mixed phyla...
-
-![GCF_001672295](static-images/GCF_001672295.1_genomic.fna.gz.png)
-
-Mixed phyla...
-
-![GCF_001683825](static-images/GCF_001683825.1_genomic.fna.gz.png)
-
-Mixed phyla...
+A mixture of firmicute and proteobacterial sequence in a GenBank genome.
 
 ![GCF_000763125](static-images/GCF_000763125.1_genomic.fna.gz.png)
 
-Maybe a teensy bit of contamination?
+Minimal phylum level mismatches, but lots of genus level mismatches in a
+Genbank genome.
 
-![GCF_001749745](static-images/GCF_001749745.1_genomic.fna.gz.png)
+![GCF_001078575](static-images/GCF_001078575.1_genomic.fna.gz.png)
 
-More teensy bit of contamination.
+Bacterial contamination in a euk from some TARA MAGs.
 
-![GCF_002154655](static-images/GCF_002154655.1_genomic.fna.gz.png)
+![TARA_ANW_MAG_00083](static-images/TARA_ANW_MAG_00083.fa.png)
 
-Even more teensy bit of contamination.
+Multiple different phyla in a single MAG (TARA).
 
-![GCF_002901805](static-images/GCF_002901805.1_genomic.fna.gz.png)
+![TARA_PON_MAG_00067](static-images/TARA_PON_MAG_00067.fa.png)
 
-Even yet more teensy bit of contamination.
+Bacterial AND Archaeal contamination in a Euk (TARA).
 
-![GCF_900016235](static-images/GCF_900016235.2_genomic.fna.gz.png)
-
-
-
-
+![TARA_RED_MAG_00116](static-images/TARA_RED_MAG_00116.fa.png)
