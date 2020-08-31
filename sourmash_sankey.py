@@ -83,6 +83,8 @@ class GenomeSankeyFlow:
             count = counts[lin]
             for last_rank, rank in self.taxlist_pairs:
                 self.add_link(lin, last_rank, rank, count)
+
+        self.sum_counts = sum(counts.values())
                 
     def make_lists(self):
         "Construct lists suitable for handing to plotly link."
@@ -91,12 +93,6 @@ class GenomeSankeyFlow:
         cnt_l = []                        # size/count of link
         color_l = []                      # color of link
         label_l = []                      # label for link
-
-        # track sum of all counts, so we can turn into percent
-        sum_counts = 0
-        for k in sorted(self.links_d):
-            for j in sorted(self.links_d[k]):
-                sum_counts += self.links_d[k][j]
 
         # now, put together set of links.
         for k in sorted(self.links_d):
@@ -111,7 +107,7 @@ class GenomeSankeyFlow:
                 cnt_l.append(counts)
 
                 # calculate percent of counts.
-                pcnt = counts / sum_counts * 100
+                pcnt = counts / self.sum_counts * 100
                 label_l.append(f'{pcnt:.1f}% of total k-mers')
 
         # last but not least, put together color for the links.
