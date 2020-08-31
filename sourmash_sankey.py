@@ -16,6 +16,10 @@ class GenomeSankeyFlow:
         # src/dest connections for links in sankey diagram
         self.links_d = {}
 
+        # track colors by lineage
+        self.default_color = "lightgrey"
+        self.colors = {}
+
         # build the set of (rank1, rank2) for all pairs; stop at species.
         taxlist_pairs = []
         for rank in taxlist():
@@ -51,21 +55,20 @@ class GenomeSankeyFlow:
         linlist.sort(key = lambda x: x[1])
         return [ lin[-1].name for lin, idx in linlist ]
 
-    def add_link(self, lin, count, src_rank, dest_rank, color):
+    def add_link(self, lin, src_rank, dest_rank, count):
         "build a link for lineage from src_rank to dest_rank. Use color/count."
         src_lin = utils.pop_to_rank(lin, src_rank)
         dest_lin = utils.pop_to_rank(lin, dest_rank)
         
         dest = self.get_index(dest_lin)
         src = self.get_index(src_lin)
-        d1 = self.links_d.get(src, {})
-        (prev_color, total_count) = d1.get(dest, (color, 0))
+        dest_d = self.links_d.get(src, {})
+
+        total_count = dest_d.get(dest, 0)
         total_count += count
 
-        assert color == prev_color, (color, prev_color)
-
-        d1[dest] = (color, total_count)
-        self.links_d[src] = d1
+        dest_d[dest] = total_count
+        self.links_d[src] = dest_d
 
     def make_links(self, genome_lineage, counts, show_unassigned=False):
         "Put all of the links together."
@@ -79,13 +82,7 @@ class GenomeSankeyFlow:
         for lin in genus_lins:
             count = counts[lin]
             for last_rank, rank in self.taxlist_pairs:
-                rank_lin = utils.pop_to_rank(lin, rank)
-
-                color = "lightgrey"
-                if utils.is_lineage_match(genome_lineage, lin, rank):
-                    color = "lightseagreen"
-                self.add_link(lin, count, last_rank, rank, color)
-                last_rank = rank
+                self.add_link(lin, last_rank, rank, count)
                 
     def make_lists(self):
         "Construct lists suitable for handing to plotly link."
@@ -99,7 +96,7 @@ class GenomeSankeyFlow:
         sum_counts = 0
         for k in sorted(self.links_d):
             for j in sorted(self.links_d[k]):
-                sum_counts += self.links_d[k][j][1]
+                sum_counts += self.links_d[k][j]
 
         # now, put together set of links.
         for k in sorted(self.links_d):
@@ -110,14 +107,31 @@ class GenomeSankeyFlow:
                 dest_l.append(j)
 
                 # retrieve color & counts...
-                color, counts = self.links_d[k][j]
-                color_l.append(color)    
+                counts = self.links_d[k][j]
                 cnt_l.append(counts)
 
                 # calculate percent of counts.
                 pcnt = counts / sum_counts * 100
-                label_l.append(f'{pcnt:.1f}% of total k-mers')                
-               
+                label_l.append(f'{pcnt:.1f}% of total k-mers')
+
+        # last but not least, put together color for the links.
+        linlist = list(self.index_d.items())
+        linlist.sort(key = lambda x: x[1])
+        idx = 0
+        color_l = []
+        for k in sorted(self.links_d):
+            for j in sorted(self.links_d[k]):
+                link_lin = linlist[j][0]
+                color = self.default_color
+                for color_lin, color_name in self.colors.items():
+                    if utils.is_lineage_match(link_lin, color_lin,
+                                              link_lin[-1].rank):
+                        color = color_name
+                        break
+
+                color_l.append(color)
+                idx += 1
+                
         return src_l, dest_l, cnt_l, color_l, label_l
     
     def make_plotly_fig(self, title):
