@@ -155,6 +155,8 @@ class GenomeSankeyFlow:
         # make the data to go into the sankey figure.
         labels = self.make_labels()
         src_l, dest_l, cnt_l, color_l, label_l = self.make_lists()
+
+        # build figure
         fig = go.Figure(data=[go.Sankey(
             node = dict(
               pad = 15,
@@ -164,7 +166,7 @@ class GenomeSankeyFlow:
               color = "blue"
             ),
             link = dict(
-              source = src_l, # indices correspond to labels, eg A1, A2, A2, B1, ...
+              source = src_l,
               target = dest_l,
               value = cnt_l,
               color = color_l,
