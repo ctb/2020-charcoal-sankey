@@ -1,0 +1,958 @@
+genome,filter_at,override_filter_at,total_bad_bp,superkingdom_bad_bp,phylum_bad_bp,class_bad_bp,order_bad_bp,family_bad_bp,genus_bad_bp,f_ident,f_major,lineage,comment
+TARA_ANW_MAG_00083.fa,genus,,405339,405339,405339,405339,405339,405339,405339,0.94,0.153,d__Eukaryota,
+TARA_ION_MAG_00073.fa,genus,,393667,393667,393667,393667,393667,393667,393667,0.93,0.0847,d__Eukaryota,
+TARA_PON_MAG_00067.fa,genus,,385558,0,385558,385558,385558,385558,385558,0.426,0.204,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__UBA2165;g__GCA-2725625,
+TARA_RED_MAG_00116.fa,genus,,378038,378038,378038,378038,378038,378038,378038,0.51,0.0512,d__Eukaryota,
+TARA_ION_MAG_00027.fa,genus,,371783,0,0,0,0,339812,371783,0.788,0.805,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__S15-B10;g__UBA2125,
+TARA_PSW_MAG_00133.fa,genus,,356872,356872,356872,356872,356872,356872,356872,0.959,0.0783,d__Eukaryota,
+TARA_ANE_MAG_00097.fa,genus,,352460,352460,352460,352460,352460,352460,352460,0.942,0.151,d__Eukaryota,
+TARA_IOS_MAG_00075.fa,genus,,346066,346066,346066,346066,346066,346066,346066,0.927,0.105,d__Eukaryota,
+TARA_PSE_MAG_00147.fa,genus,,338178,338178,338178,338178,338178,338178,338178,0.948,0.115,d__Eukaryota,
+TARA_ANE_MAG_00069.fa,genus,,318380,0,318380,318380,318380,318380,318380,0.893,0.731,d__Bacteria;p__Margulisbacteria;c__ZB3;o__UBA817;f__GCA-002719695;g__GCA-002719695,
+TARA_PSW_MAG_00136.fa,genus,,276625,276625,276625,276625,276625,276625,276625,0.795,0.00615,d__Eukaryota,
+TARA_ION_MAG_00072.fa,genus,,239730,239730,239730,239730,239730,239730,239730,0.844,0.00942,d__Eukaryota,
+TARA_PON_MAG_00064.fa,genus,,208539,22420,208539,208539,208539,208539,208539,0.734,0.453,d__Bacteria;p__Nitrospinota;c__Nitrospinia;o__Nitrospinales;f__Nitrospinaceae;g__SCGCAAA288-L16,
+TARA_RED_MAG_00103.fa,genus,,195135,0,0,0,25059,25059,195135,0.879,0.61,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter_A,
+TARA_RED_MAG_00118.fa,genus,,193043,193043,193043,193043,193043,193043,193043,1.0,0.00299,d__Eukaryota,
+TARA_PSE_MAG_00015.fa,genus,,186981,0,0,54108,186981,186981,186981,0.958,0.83,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA7803,
+TARA_PSE_MAG_00103.fa,genus,,178388,0,23670,23670,23670,23670,178388,0.694,0.228,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Roseovarius,
+TARA_ASE_MAG_00031.fa,genus,,160845,0,22114,22114,81644,97729,160845,0.902,0.536,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_PON_MAG_00085.fa,genus,,148994,0,0,0,146381,148994,148994,0.902,0.762,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_PSE_MAG_00110.fa,genus,,145711,0,0,0,145711,145711,145711,0.894,0.683,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Oleispira,
+TARA_PSE_MAG_00140.fa,genus,,142048,142048,142048,142048,142048,142048,142048,0.847,0.00671,d__Eukaryota,
+TARA_RED_MAG_00063.fa,genus,,133527,0,120264,133527,133527,133527,133527,0.918,0.873,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA2965,
+TARA_PSW_MAG_00065.fa,genus,,127592,0,0,0,0,0,127592,0.939,0.602,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Muricauda_A,
+TARA_PON_MAG_00054.fa,genus,,126959,0,126959,126959,126959,126959,126959,0.949,0.672,d__Bacteria;p__Nitrospinota;c__UBA7883;o__UBA7883;f__UBA7883;g__UBA7883,
+TARA_ANE_MAG_00009.fa,genus,,122328,0,0,18307,24133,57288,122328,0.902,0.406,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Martelella,
+TARA_ION_MAG_00032.fa,genus,,115372,0,0,0,0,18112,115372,0.968,0.628,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Spongiibacteraceae;g__Spongiibacter,
+TARA_ANE_MAG_00093.fa,genus,,114983,114983,114983,114983,114983,114983,114983,0.854,0.00863,d__Eukaryota,
+TARA_RED_MAG_00072.fa,genus,,108096,0,0,0,0,0,108096,0.929,0.871,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-K1,
+TARA_PON_MAG_00075.fa,genus,,102996,0,14206,14206,14206,14206,102996,0.98,0.841,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__UBA8231,
+TARA_RED_MAG_00115.fa,genus,,89090,2927,89090,89090,89090,89090,89090,0.896,0.294,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA11883,
+TARA_ANE_MAG_00088.fa,genus,,88039,88039,88039,88039,88039,88039,88039,0.829,0.0126,d__Eukaryota,
+TARA_PSW_MAG_00013.fa,genus,,82295,0,82295,82295,82295,82295,82295,0.982,0.629,d__Bacteria;p__Desulfobacterota_A;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Pseudodesulfovibrio,
+TARA_IOS_MAG_00014.fa,genus,,81606,0,81606,81606,81606,81606,81606,0.963,0.904,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Opitutaceae;g__UBA5691,
+TARA_RED_MAG_00114.fa,genus,,81159,81159,81159,81159,81159,81159,81159,0.816,0.00963,d__Eukaryota,
+TARA_ANW_MAG_00068.fa,genus,,78403,2618,78403,78403,78403,78403,78403,0.961,0.781,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Synechococcales;f__Cyanobiaceae;g__Synechococcus_C,
+TARA_ASE_MAG_00006.fa,genus,,78245,0,16192,16192,25908,49078,78245,0.938,0.554,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_D,
+TARA_SOC_MAG_00001.fa,genus,,77738,0,14065,14065,14065,14065,77738,0.982,0.791,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__UBA2638,
+TARA_PSE_MAG_00142.fa,genus,,77369,0,0,0,36743,36743,77369,0.985,0.936,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_D,
+TARA_RED_MAG_00109.fa,genus,,75670,0,11527,11527,71545,71545,75670,0.986,0.772,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA6615;f__UBA6615;g__GCA-2727315,
+TARA_ANE_MAG_00051.fa,genus,,74895,0,7790,7790,7790,7790,74895,0.755,0.364,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__GCA-2697505,
+TARA_PSW_MAG_00062.fa,genus,,70274,0,0,0,36735,40059,70274,0.92,0.482,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_D,
+TARA_ASE_MAG_00007.fa,genus,,68955,0,0,68955,68955,68955,68955,0.916,0.479,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__HTCC2207,
+TARA_ANE_MAG_00092.fa,genus,,67611,0,58442,58442,58442,58442,67611,0.972,0.404,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_PSW_MAG_00134.fa,genus,,67343,0,0,0,19956,19956,67343,0.953,0.75,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Martelella,
+TARA_PON_MAG_00077.fa,genus,,66520,0,66520,66520,66520,66520,66520,0.935,0.484,d__Bacteria;p__Bdellovibrionota_B;c__Oligoflexia;o__Oligoflexales;f__Oligoflexaceae;g__GCA-2725955,
+TARA_PSW_MAG_00004.fa,genus,,64885,0,0,0,8111,64885,64885,0.983,0.972,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Alcanivoracaceae;g__Alcanivorax,
+TARA_ANW_MAG_00006.fa,genus,,64876,0,0,0,0,0,64876,0.984,0.974,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Ketobacteraceae;g__Ketobacter,
+TARA_PON_MAG_00071.fa,genus,,62744,0,62744,62744,62744,62744,62744,0.966,0.761,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_RED_MAG_00065.fa,genus,,60663,0,60663,60663,60663,60663,60663,0.949,0.775,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__SG8-23;f__UBA6960;g__UBA887,
+TARA_PSE_MAG_00101.fa,genus,,60465,0,0,0,0,0,60465,0.957,0.692,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter_A,
+TARA_ASW_MAG_00018.fa,genus,,60130,0,60130,60130,60130,60130,60130,0.958,0.814,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA952,
+TARA_PSE_MAG_00019.fa,genus,,57985,0,0,57985,57985,57985,57985,0.98,0.93,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Defluviicoccales;f__UBA2964;g__GCA-2709075,
+TARA_ASE_MAG_00003.fa,genus,,53906,0,0,0,53906,53906,53906,0.984,0.922,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA7328,
+TARA_PON_MAG_00082.fa,genus,,53559,53559,53559,53559,53559,53559,53559,1.0,0.00706,d__Eukaryota,
+TARA_RED_MAG_00004.fa,genus,,53517,0,36752,36752,53517,53517,53517,0.974,0.938,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA828;f__UBA828;g__GCA-2728135,
+TARA_RED_MAG_00069.fa,genus,,53313,0,53313,53313,53313,53313,53313,0.908,0.554,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__SG8-23;f__UBA6960;g__GCA-2718595,
+TARA_ION_MAG_00029.fa,genus,,52819,0,0,0,0,0,52819,0.969,0.647,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingobium,
+TARA_ION_MAG_00034.fa,genus,,51434,51434,51434,51434,51434,51434,51434,0.951,0.603,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O3,
+TARA_PSE_MAG_00129.fa,genus,,51190,51190,51190,51190,51190,51190,51190,0.743,0.0227,d__Eukaryota,
+TARA_PSE_MAG_00022.fa,genus,,51109,0,8661,51109,51109,51109,51109,0.987,0.877,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Wenzhouxiangellaceae;g__GCA-2722315,
+TARA_MED_MAG_00139.fa,genus,,50586,0,0,0,0,0,50586,0.973,0.684,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas,
+TARA_RED_MAG_00104.fa,genus,,49114,0,0,0,0,49114,49114,0.972,0.492,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Oleiphilaceae;g__Marinobacter,
+TARA_ANE_MAG_00098.fa,genus,,48310,48310,48310,48310,48310,48310,48310,1.0,0.015,d__Eukaryota,
+TARA_PON_MAG_00061.fa,genus,,47553,0,0,0,24491,24491,47553,0.955,0.716,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_RED_MAG_00014.fa,genus,,47420,0,0,47420,47420,47420,47420,0.959,0.754,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA2979;f__UBA2979;g__UBA6955,
+TARA_PON_MAG_00004.fa,genus,,46774,0,17770,17770,46774,46774,46774,0.972,0.944,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Coxiellales;f__Coxiellaceae;g__UBA9148,
+TARA_ANE_MAG_00071.fa,genus,,46298,0,27075,27075,27075,27075,46298,0.943,0.683,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MED-G13,
+TARA_RED_MAG_00071.fa,genus,,46272,0,29997,29997,46272,46272,46272,0.956,0.358,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100;g__UBA6614,
+TARA_ASE_MAG_00035.fa,genus,,46005,46005,46005,46005,46005,46005,46005,0.955,0.0223,d__Eukaryota,
+TARA_ANE_MAG_00096.fa,genus,,44803,0,0,0,4099,7865,44803,0.964,0.699,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_PSW_MAG_00049.fa,genus,,44377,0,44377,44377,44377,44377,44377,0.974,0.607,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8592;g__UBA8592,
+TARA_PON_MAG_00029.fa,genus,,43805,0,38311,38311,43805,43805,43805,0.984,0.742,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__SW10,
+TARA_IOS_MAG_00008.fa,genus,,43287,0,0,0,43287,43287,43287,0.95,0.695,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Maricaulaceae;g__Oceanicaulis,
+TARA_PON_MAG_00023.fa,genus,,43028,0,0,0,0,30901,43028,0.985,0.825,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__UBA2009,
+TARA_PSE_MAG_00126.fa,genus,,42838,0,19246,19246,19246,22377,42838,0.97,0.873,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__BACL21,
+TARA_PSE_MAG_00144.fa,genus,,42609,0,42609,42609,42609,42609,42609,0.992,0.747,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas,
+TARA_ASW_MAG_00026.fa,genus,,42324,0,33670,33670,33670,33670,42324,0.931,0.666,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Microbacteriaceae;g__Microbacterium,
+TARA_ASE_MAG_00032.fa,genus,,42267,42267,42267,42267,42267,42267,42267,1.0,0.00388,d__Eukaryota,
+TARA_PSE_MAG_00083.fa,genus,,41887,0,0,0,0,0,41887,0.984,0.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Mesonia,
+TARA_PSE_MAG_00138.fa,genus,,39631,0,8922,8922,8922,39631,39631,0.934,0.36,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_MED_MAG_00130.fa,genus,,39249,0,39249,39249,39249,39249,39249,0.968,0.285,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_ANW_MAG_00079.fa,genus,,38995,38995,38995,38995,38995,38995,38995,1.0,0.0305,d__Eukaryota,
+TARA_ANE_MAG_00074.fa,genus,,38455,0,38455,38455,38455,38455,38455,0.97,0.68,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Nanopelagicales;f__S36-B12;g__S36-B12,
+TARA_PSW_MAG_00109.fa,genus,,37876,0,29530,29530,29530,37876,37876,0.973,0.816,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA4421,
+TARA_ASE_MAG_00016.fa,genus,,37156,0,0,0,0,0,37156,0.938,0.737,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O3,
+TARA_ASW_MAG_00022.fa,genus,,37070,0,0,0,0,5798,37070,0.902,0.442,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Martelella,
+TARA_PSE_MAG_00141.fa,genus,,36748,0,6922,6922,6922,6922,36748,0.973,0.696,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA8087,
+TARA_MED_MAG_00128.fa,genus,,36312,18820,36312,36312,36312,36312,36312,0.981,0.607,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70,
+TARA_ANW_MAG_00009.fa,genus,,35384,0,0,0,35384,35384,35384,0.993,0.991,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Halioglobus,
+TARA_PSE_MAG_00119.fa,genus,,34973,0,0,0,5035,5035,34973,0.963,0.699,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Roseovarius,
+TARA_ION_MAG_00014.fa,genus,,34245,0,0,0,0,0,34245,0.986,0.616,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__UBA2009,
+TARA_ASW_MAG_00034.fa,genus,,34099,34099,34099,34099,34099,34099,34099,1.0,0.00875,d__Eukaryota,
+TARA_PSE_MAG_00104.fa,genus,,33887,0,0,33887,33887,33887,33887,0.988,0.651,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Aestuariibacter_A,
+TARA_RED_MAG_00021.fa,genus,,32710,27788,32710,32710,32710,32710,32710,0.934,0.486,d__Archaea;p__Halobacterota;c__Halobacteria;o__Halobacteriales;f__UBA12382;g__UBA12382,
+TARA_MED_MAG_00125.fa,genus,,32263,0,0,0,0,0,32263,0.99,0.718,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Defluviicoccales;f__UBA830;g__GCA-2689465,
+TARA_PON_MAG_00072.fa,genus,,32140,0,0,32140,32140,32140,32140,0.969,0.641,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA11600,
+TARA_ANE_MAG_00040.fa,genus,,32039,0,0,0,0,10941,32039,0.962,0.361,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__GCA-2693335,
+TARA_ANE_MAG_00052.fa,genus,,31807,31807,31807,31807,31807,31807,31807,0.987,0.816,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__Thalassarchaeum,
+TARA_ANW_MAG_00085.fa,genus,,30586,30586,30586,30586,30586,30586,30586,1.0,0.0165,d__Eukaryota,
+TARA_ASW_MAG_00012.fa,genus,,30180,0,0,0,0,0,30180,0.97,0.558,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Maribacter,
+TARA_PON_MAG_00065.fa,genus,,29835,0,0,0,0,0,29835,0.984,0.658,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__UBA12574,
+TARA_PSW_MAG_00096.fa,genus,,29701,0,5469,5469,5469,29701,29701,0.977,0.973,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466,
+TARA_ANE_MAG_00080.fa,genus,,29548,0,29548,29548,29548,29548,29548,0.983,0.727,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus,
+TARA_PSE_MAG_00118.fa,genus,,29399,0,8991,8991,24556,24556,29399,0.958,0.287,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_ANE_MAG_00078.fa,genus,,28391,3841,24738,24738,24738,28391,28391,0.921,0.324,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Litoricolaceae;g__Litoricola,
+TARA_PON_MAG_00015.fa,genus,,28350,0,28350,28350,28350,28350,28350,0.99,0.671,d__Bacteria;p__Myxococcota;c__Bradimonadia;o__UBA7976;f__UBA1532;g__UBA1532,
+TARA_ANE_MAG_00039.fa,genus,,28333,0,0,0,28333,28333,28333,0.968,0.472,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__GCA-002694895;g__GCA-002694895,
+TARA_IOS_MAG_00038.fa,genus,,25363,0,0,0,0,4894,25363,0.971,0.598,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L1,
+TARA_MED_MAG_00058.fa,genus,,23968,0,0,18627,18627,23968,23968,0.994,0.706,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Oleibacter,
+TARA_RED_MAG_00050.fa,genus,,23564,0,5643,5643,23564,23564,23564,0.994,0.836,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Planctomycetales;f__Planctomycetaceae;g__UBA8437,
+TARA_PSE_MAG_00106.fa,genus,,23146,0,0,19903,23146,23146,23146,0.988,0.97,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas,
+TARA_ASE_MAG_00014.fa,genus,,23088,0,0,0,0,0,23088,0.953,0.31,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G2B,
+TARA_ION_MAG_00058.fa,genus,,22390,0,0,0,22390,22390,22390,0.981,0.669,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E,
+TARA_PON_MAG_00053.fa,genus,,21922,0,17840,17840,21922,21922,21922,0.991,0.903,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__GCA-2731375;f__GCA-2731375;g__GCA-2731375,
+TARA_ION_MAG_00067.fa,genus,,21768,0,0,21768,21768,21768,21768,0.998,0.8,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Oleibacter,
+TARA_PSE_MAG_00120.fa,genus,,21458,0,0,21458,21458,21458,21458,0.981,0.728,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_D,
+TARA_ASW_MAG_00011.fa,genus,,21315,0,0,0,0,0,21315,0.995,0.74,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-K1,
+TARA_IOS_MAG_00033.fa,genus,,21236,0,0,0,0,21236,21236,0.971,0.412,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__Casp-actino5,
+TARA_PSW_MAG_00012.fa,genus,,21225,0,0,0,0,21225,21225,0.993,0.962,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__GCA-002722245;g__GCA-002722245,
+TARA_IOS_MAG_00022.fa,genus,,20888,20888,20888,20888,20888,20888,20888,0.99,0.877,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O2,
+TARA_ANW_MAG_00011.fa,genus,,20861,0,0,0,0,0,20861,0.979,0.621,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Thioclava,
+TARA_IOS_MAG_00067.fa,genus,,20555,0,0,0,0,20555,20555,0.991,0.569,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Oleiphilaceae;g__Marinobacter,
+TARA_ANE_MAG_00081.fa,genus,,20060,0,20060,20060,20060,20060,20060,0.983,0.576,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA721,
+TARA_PSE_MAG_00133.fa,genus,,20043,0,0,10055,10055,16422,20043,0.986,0.705,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Thalassolituus,
+TARA_PON_MAG_00066.fa,genus,,19831,0,19831,19831,19831,19831,19831,0.988,0.838,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA8438,
+TARA_ANW_MAG_00075.fa,genus,,19450,19450,19450,19450,19450,19450,19450,0.8,0.00572,d__Eukaryota,
+TARA_PSE_MAG_00097.fa,genus,,19416,0,13101,13101,13101,13101,19416,0.991,0.597,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Planctomycetales;f__Planctomycetaceae;g__Rubinisphaera,
+TARA_PON_MAG_00044.fa,genus,,19135,0,0,0,0,0,19135,0.994,0.877,d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__UBA1547,
+TARA_MED_MAG_00026.fa,genus,,18941,18941,18941,18941,18941,18941,18941,0.993,0.904,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA11654;f__UBA11654;g__UBA11654,
+TARA_PON_MAG_00019.fa,genus,,18564,0,18564,18564,18564,18564,18564,0.988,0.457,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3478,
+TARA_ASW_MAG_00025.fa,genus,,18518,0,4550,4550,4550,4550,18518,0.913,0.378,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G2B,
+TARA_PSW_MAG_00060.fa,genus,,18308,0,0,0,0,18308,18308,0.998,0.777,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_PON_MAG_00038.fa,genus,,17791,0,17791,17791,17791,17791,17791,0.977,0.771,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Litoricolaceae;g__Litoricola,
+TARA_PSW_MAG_00029.fa,genus,,17750,0,0,0,0,0,17750,0.979,0.78,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Roseovarius,
+TARA_ASW_MAG_00024.fa,genus,,17675,0,0,0,0,0,17675,0.945,0.684,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_ANW_MAG_00058.fa,genus,,17667,0,17667,17667,17667,17667,17667,0.993,0.719,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__AAA164-E04;g__UBA7971,
+TARA_ANE_MAG_00065.fa,genus,,17228,0,0,0,0,17228,17228,0.984,0.685,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N2,
+TARA_PSW_MAG_00075.fa,genus,,17218,17218,17218,17218,17218,17218,17218,0.991,0.898,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N1,
+TARA_PSW_MAG_00074.fa,genus,,17044,0,17044,17044,17044,17044,17044,0.977,0.378,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__TMED25;g__MED-G09,
+TARA_ANW_MAG_00072.fa,genus,,16963,0,16963,16963,16963,16963,16963,0.989,0.916,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__Phycisphaeraceae;g__UBA7800,
+TARA_PSE_MAG_00098.fa,genus,,16546,0,0,0,0,0,16546,0.995,0.743,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Zunongwangia,
+TARA_PSW_MAG_00083.fa,genus,,16247,0,16247,16247,16247,16247,16247,0.989,0.52,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_PON_MAG_00001.fa,genus,,16163,0,0,0,0,16163,16163,0.995,0.638,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Spongiibacteraceae;g__Spongiibacter,
+TARA_PSE_MAG_00112.fa,genus,,16114,0,16114,16114,16114,16114,16114,0.995,0.643,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA12014,
+TARA_MED_MAG_00090.fa,genus,,15858,0,0,0,0,15858,15858,0.988,0.707,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA952,
+TARA_PSW_MAG_00094.fa,genus,,15773,15773,15773,15773,15773,15773,15773,0.984,0.556,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-K1,
+TARA_RED_MAG_00064.fa,genus,,15544,0,6184,6184,15544,15544,15544,0.984,0.704,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA2963;f__UBA2963;g__UBA2963,
+TARA_ION_MAG_00028.fa,genus,,15400,0,15400,15400,15400,15400,15400,0.984,0.715,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8592;g__UBA8592,
+TARA_ANE_MAG_00090.fa,genus,,15247,15247,15247,15247,15247,15247,15247,1.0,0.00329,d__Eukaryota,
+TARA_ANW_MAG_00048.fa,genus,,15179,0,15179,15179,15179,15179,15179,0.995,0.536,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__UBA8444,
+TARA_ANE_MAG_00048.fa,genus,,15091,0,0,0,15091,15091,15091,0.978,0.65,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA4486;f__UBA4486;g__UBA11869,
+TARA_PSW_MAG_00110.fa,genus,,14150,0,0,0,0,0,14150,0.992,0.938,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA1668,
+TARA_MED_MAG_00048.fa,genus,,14007,0,14007,14007,14007,14007,14007,0.973,0.669,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Nanopelagicales;f__S36-B12;g__S36-B12,
+TARA_MED_MAG_00102.fa,genus,,13652,0,13652,13652,13652,13652,13652,0.979,0.581,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__TMED27,
+TARA_PSE_MAG_00039.fa,genus,,13418,0,13418,13418,13418,13418,13418,0.998,0.973,d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__SG8-38;g__GCA-2699025,
+TARA_RED_MAG_00024.fa,genus,,13340,0,13340,13340,13340,13340,13340,0.994,0.892,d__Bacteria;p__Myxococcota;c__UBA9042;o__UBA3505;f__UBA3505;g__UBA3505,
+TARA_PSE_MAG_00042.fa,genus,,13310,0,0,0,13310,13310,13310,0.985,0.532,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E,
+TARA_RED_MAG_00106.fa,genus,,13293,0,13293,13293,13293,13293,13293,0.977,0.324,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70,
+TARA_MED_MAG_00041.fa,genus,,13208,13208,13208,13208,13208,13208,13208,0.985,0.488,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__SW10,
+TARA_RED_MAG_00070.fa,genus,,12804,0,12804,12804,12804,12804,12804,0.971,0.372,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__Bin127;g__UBA1328,
+TARA_ION_MAG_00015.fa,genus,,12672,0,0,0,0,12672,12672,0.989,0.85,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Microbacteriaceae;g__Microbacterium,
+TARA_PON_MAG_00018.fa,genus,,12534,0,0,12534,12534,12534,12534,0.99,0.904,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA7916;f__UBA7916;g__UBA7916,
+TARA_ASW_MAG_00016.fa,genus,,12323,0,0,0,12323,12323,12323,0.99,0.825,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas,
+TARA_MED_MAG_00078.fa,genus,,12073,0,0,0,0,0,12073,0.986,0.803,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G1,
+TARA_ANW_MAG_00046.fa,genus,,12017,12017,12017,12017,12017,12017,12017,0.998,0.697,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_ASW_MAG_00037.fa,genus,,11509,11509,11509,11509,11509,11509,11509,1.0,0.00693,d__Eukaryota,
+TARA_IOS_MAG_00076.fa,genus,,11481,11481,11481,11481,11481,11481,11481,1.0,0.00484,d__Eukaryota,
+TARA_PSE_MAG_00109.fa,genus,,11464,0,0,0,0,0,11464,0.998,0.734,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Nevskiales;f__Salinisphaeraceae;g__Salinisphaera,
+TARA_ANE_MAG_00077.fa,genus,,11301,0,11301,11301,11301,11301,11301,0.979,0.35,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096,
+TARA_PON_MAG_00068.fa,genus,,10582,0,10582,10582,10582,10582,10582,0.996,0.904,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__Phycisphaeraceae;g__UBA7800,
+TARA_ASE_MAG_00028.fa,genus,,9853,0,9853,9853,9853,9853,9853,0.895,0.213,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__Rubripirellula,
+TARA_RED_MAG_00083.fa,genus,,9842,0,9842,9842,9842,9842,9842,0.995,0.794,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8592;g__UBA8592,
+TARA_ION_MAG_00042.fa,genus,,9775,0,9775,9775,9775,9775,9775,0.987,0.797,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__SG8-23;f__UBA6960;g__UBA2589,
+TARA_ASE_MAG_00002.fa,genus,,9764,0,9764,9764,9764,9764,9764,0.997,0.983,d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__UBA840;g__UBA6502,
+TARA_ANW_MAG_00025.fa,genus,,9618,4724,4724,4724,9618,9618,9618,0.983,0.745,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA826;g__AG-426-M11,
+TARA_PSW_MAG_00030.fa,genus,,9576,9576,9576,9576,9576,9576,9576,0.998,0.913,d__Bacteria;p__Myxococcota;c__UBA727;o__UBA727;f__GCA-2721815;g__GCA-2721815,
+TARA_PSE_MAG_00035.fa,genus,,9218,0,0,0,0,0,9218,0.978,0.565,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Cobetia,
+TARA_RED_MAG_00102.fa,genus,,9008,0,0,0,9008,9008,9008,0.985,0.325,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Defluviicoccales;f__UBA830;g__UBA830,
+TARA_PSW_MAG_00129.fa,genus,,8995,0,0,0,0,5189,8995,0.995,0.725,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_ASW_MAG_00004.fa,genus,,8871,0,0,0,5783,8871,8871,0.994,0.962,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Oleibacter,
+TARA_ANW_MAG_00007.fa,genus,,8715,0,8715,8715,8715,8715,8715,0.997,0.906,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA721,
+TARA_MED_MAG_00024.fa,genus,,8349,0,8349,8349,8349,8349,8349,0.992,0.81,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8592;g__MedAcidi-G2A,
+TARA_MED_MAG_00108.fa,genus,,8259,0,0,0,0,0,8259,0.993,0.826,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Synechococcales;f__Cyanobiaceae;g__Synechococcus_C,
+TARA_PSE_MAG_00107.fa,genus,,8063,0,0,0,0,0,8063,0.984,0.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Salegentibacter,
+TARA_IOS_MAG_00029.fa,genus,,7957,0,0,2969,2969,7957,7957,0.993,0.791,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA4421,
+TARA_ANW_MAG_00045.fa,genus,,7930,7930,7930,7930,7930,7930,7930,0.992,0.596,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N2,
+TARA_ANE_MAG_00041.fa,genus,,7834,0,0,0,0,7834,7834,0.984,0.316,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__GCA-2715565,
+TARA_RED_MAG_00066.fa,genus,,7626,0,7626,7626,7626,7626,7626,0.994,0.885,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA7887;f__UBA7887;g__GCA-2728255,
+TARA_MED_MAG_00103.fa,genus,,7437,0,0,0,7437,7437,7437,0.999,0.636,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Puniceispirillales;f__Puniceispirillaceae;g__HIMB100,
+TARA_IOS_MAG_00078.fa,genus,,7265,7265,7265,7265,7265,7265,7265,1.0,0.0035,d__Eukaryota,
+TARA_PON_MAG_00083.fa,genus,,7260,7260,7260,7260,7260,7260,7260,1.0,0.00309,d__Eukaryota,
+TARA_ION_MAG_00002.fa,genus,,7216,0,7216,7216,7216,7216,7216,0.992,0.659,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;g__Brevundimonas,
+TARA_ANW_MAG_00077.fa,genus,,7199,0,7199,7199,7199,7199,7199,0.995,0.835,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA721,
+TARA_MED_MAG_00010.fa,genus,,7133,0,7133,7133,7133,7133,7133,0.995,0.249,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__UBA4465,
+TARA_ANW_MAG_00035.fa,genus,,7104,0,7104,7104,7104,7104,7104,0.989,0.259,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__UBA1268;g__UBA1268,
+TARA_MED_MAG_00065.fa,genus,,7023,0,0,7023,7023,7023,7023,0.996,0.71,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,
+TARA_RED_MAG_00055.fa,genus,,6944,0,0,0,0,0,6944,0.982,0.341,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-K2,
+TARA_ASE_MAG_00020.fa,genus,,6762,0,3709,3709,6762,6762,6762,0.99,0.843,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_ASE_MAG_00022.fa,genus,,6687,0,0,0,0,0,6687,0.997,0.841,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11,
+TARA_PSW_MAG_00056.fa,genus,,6598,0,0,0,0,0,6598,0.991,0.893,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia,
+TARA_ASE_MAG_00011.fa,genus,,6556,0,0,0,0,6556,6556,0.986,0.666,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N2,
+TARA_ANW_MAG_00018.fa,genus,,6291,0,6291,6291,6291,6291,6291,0.992,0.834,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA6615;f__UBA6615;g__NAT5454,
+TARA_RED_MAG_00002.fa,genus,,6252,0,6252,6252,6252,6252,6252,0.992,0.503,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__UBA1611;g__GCA-2722105,
+TARA_ANE_MAG_00012.fa,genus,,6182,0,6182,6182,6182,6182,6182,0.987,0.622,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA7916;f__UBA1515;g__UBA1515,
+TARA_ANE_MAG_00086.fa,genus,,5989,5989,5989,5989,5989,5989,5989,1.0,0.00114,d__Eukaryota,
+TARA_ION_MAG_00037.fa,genus,,5731,0,0,0,0,0,5731,0.995,0.398,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__Algoriphagus,
+TARA_RED_MAG_00041.fa,genus,,5642,0,5642,5642,5642,5642,5642,0.997,0.69,d__Bacteria;p__Chloroflexota_B;c__UBA11872;o__UBA11872;f__UBA11872;g__UBA11872,
+TARA_ANE_MAG_00079.fa,genus,,5590,0,5590,5590,5590,5590,5590,0.994,0.733,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70,
+TARA_ANW_MAG_00029.fa,genus,,5589,0,5589,5589,5589,5589,5589,0.995,0.788,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__GCA-2711125,
+TARA_ANE_MAG_00050.fa,genus,,5544,5544,5544,5544,5544,5544,5544,0.994,0.821,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__TMED25;g__TMED25,
+TARA_ANW_MAG_00061.fa,genus,,5478,5478,5478,5478,5478,5478,5478,0.97,0.252,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__GCA-2697345,
+TARA_PSW_MAG_00087.fa,genus,,5373,0,5373,5373,5373,5373,5373,0.998,0.946,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Puniceicoccaceae;g__BACL24,
+TARA_SOC_MAG_00010.fa,genus,,5294,0,0,5294,5294,5294,5294,0.996,0.812,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,
+TARA_IOS_MAG_00034.fa,genus,,5196,0,5196,5196,5196,5196,5196,0.994,0.843,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA1668,
+TARA_MED_MAG_00101.fa,genus,,5083,0,5083,5083,5083,5083,5083,0.981,0.642,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MS024-2A,
+TARA_ANE_MAG_00032.fa,genus,,5070,0,5070,5070,5070,5070,5070,0.997,0.807,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Puniceispirillales;f__Puniceispirillaceae;g__UBA8309,
+TARA_ANW_MAG_00081.fa,genus,,5011,5011,5011,5011,5011,5011,5011,1.0,0.00179,d__Eukaryota,
+TARA_ASW_MAG_00044.fa,genus,,4896,0,0,0,4896,4896,4896,0.998,0.69,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas,
+TARA_ANW_MAG_00033.fa,genus,,4395,0,0,0,0,0,4395,0.994,0.908,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_IOS_MAG_00018.fa,genus,,4353,0,4353,4353,4353,4353,4353,0.997,0.589,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_PSW_MAG_00066.fa,genus,,4338,0,4338,4338,4338,4338,4338,0.998,0.963,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__TK06;g__UBA6944,
+TARA_MED_MAG_00082.fa,genus,,4320,0,0,0,4320,4320,4320,0.997,0.837,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Litoricolaceae;g__Litoricola,
+TARA_ANW_MAG_00019.fa,genus,,4314,0,0,0,0,4314,4314,0.998,0.988,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Ketobacteraceae;g__GCA-2701845,
+TARA_PSW_MAG_00076.fa,genus,,4268,0,4268,4268,4268,4268,4268,0.997,0.591,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__JCVI-SCAAA005,
+TARA_ANE_MAG_00015.fa,genus,,4220,0,4220,4220,4220,4220,4220,0.995,0.718,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA2588;g__UBA2588,
+TARA_PON_MAG_00011.fa,genus,,4073,0,0,0,4073,4073,4073,0.998,0.915,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__Arctic95D-9,
+TARA_ANE_MAG_00046.fa,genus,,4072,0,0,0,4072,4072,4072,0.989,0.549,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Ga0077536_A;f__TMED69;g__TMED69,
+TARA_RED_MAG_00040.fa,genus,,3916,3916,3916,3916,3916,3916,3916,0.999,0.909,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__SG8-23;f__UBA6960;g__UBA2589,
+TARA_ANE_MAG_00031.fa,genus,,3728,0,3728,3728,3728,3728,3728,0.998,0.858,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter,
+TARA_RED_MAG_00105.fa,genus,,3702,0,0,0,0,0,3702,0.98,0.708,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter_A,
+TARA_MED_MAG_00042.fa,genus,,3698,0,0,0,3698,3698,3698,0.991,0.847,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED109;f__TMED131;g__TMED62,
+TARA_PSW_MAG_00081.fa,genus,,3655,0,3655,3655,3655,3655,3655,0.989,0.681,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__TMED-70;g__TMED-70,
+TARA_PON_MAG_00027.fa,genus,,3634,0,0,3634,3634,3634,3634,0.998,0.987,d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Melioribacteraceae;g__GCA-2698995,
+TARA_ANW_MAG_00054.fa,genus,,3590,0,3590,3590,3590,3590,3590,0.993,0.737,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G1,
+TARA_PSW_MAG_00107.fa,genus,,3519,0,3519,3519,3519,3519,3519,0.999,0.993,d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__SBR1031;f__A4b;g__GCA-2699585,
+TARA_PSW_MAG_00072.fa,genus,,3429,0,0,0,0,3429,3429,0.999,0.94,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__GCA-2723275,
+TARA_IOS_MAG_00052.fa,genus,,3363,3363,3363,3363,3363,3363,3363,0.994,0.629,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__GCA-2701885;f__GCA-2701885;g__GCA-2701885,
+TARA_RED_MAG_00037.fa,genus,,3305,0,0,0,3305,3305,3305,0.997,0.745,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA998;f__UBA3002;g__GCA-2725445,
+TARA_PSW_MAG_00041.fa,genus,,3279,3279,3279,3279,3279,3279,3279,0.982,0.443,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__GCA-002728855,
+TARA_PSW_MAG_00135.fa,genus,,3197,3197,3197,3197,3197,3197,3197,1.0,0.00127,d__Eukaryota,
+TARA_PSE_MAG_00028.fa,genus,,3087,0,0,0,0,0,3087,0.997,0.936,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA854,
+TARA_RED_MAG_00075.fa,genus,,3052,0,3052,3052,3052,3052,3052,0.992,0.849,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__GCA-002723415;g__GCA-002723415,
+TARA_PON_MAG_00031.fa,genus,,3049,0,0,0,3049,3049,3049,0.995,0.767,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11,
+TARA_RED_MAG_00098.fa,genus,,2872,2872,2872,2872,2872,2872,2872,0.996,0.666,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_ANE_MAG_00007.fa,genus,,2754,0,0,0,0,2754,2754,0.998,0.978,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Microbacteriaceae;g__Microbacterium,
+TARA_IOS_MAG_00044.fa,genus,,2715,2715,2715,2715,2715,2715,2715,0.998,0.666,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_ANW_MAG_00084.fa,genus,,2706,2706,2706,2706,2706,2706,2706,1.0,0.0015,d__Eukaryota,
+TARA_ASW_MAG_00020.fa,genus,,2695,0,0,0,0,2695,2695,0.996,0.761,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__Bin127;g__GCA-002708145,
+TARA_PSE_MAG_00100.fa,genus,,2614,0,0,2614,2614,2614,2614,0.998,0.597,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__Thalassospiraceae;g__Thalassospira,
+TARA_ASE_MAG_00010.fa,genus,,2593,0,0,0,0,0,2593,0.998,0.574,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366;g__UBA6544,
+TARA_IOS_MAG_00031.fa,genus,,2538,0,0,0,0,2538,2538,0.996,0.892,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__GCA-002697625,
+TARA_PSW_MAG_00118.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00125.fa,genus,,0,0,0,0,0,0,0,1.0,0.264,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__Phycisphaeraceae;g__UBA7800,
+TARA_PSW_MAG_00102.fa,genus,,0,0,0,0,0,0,0,0.998,0.849,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia,
+TARA_RED_MAG_00038.fa,genus,,0,0,0,0,0,0,0,0.999,0.874,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__Bin127;g__GCA-002708145,
+TARA_MED_MAG_00127.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00121.fa,none,,0,0,0,0,0,0,0,0.906,0.0185,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00123.fa,genus,,0,0,0,0,0,0,0,0.995,0.885,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Oleiphilaceae;g__Marinobacter,
+TARA_PSE_MAG_00017.fa,none,,0,0,0,0,0,0,0,1.0,0.00567,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00120.fa,none,,0,0,0,0,0,0,0,1.0,0.00872,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00053.fa,none,,0,0,0,0,0,0,0,0.4,0.0149,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00078.fa,genus,,0,0,0,0,0,0,0,1.0,0.726,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA7446,
+TARA_ASW_MAG_00031.fa,genus,,0,0,0,0,0,0,0,0.996,0.605,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Oleiphilaceae;g__Marinobacter,
+TARA_RED_MAG_00020.fa,none,,0,0,0,0,0,0,0,1.0,0.00757,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00001.fa,genus,,0,0,0,0,0,0,0,0.998,0.888,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__UBA1977;g__UBA1977,
+TARA_RED_MAG_00120.fa,genus,,0,0,0,0,0,0,0,0.998,0.804,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__GCA-002724215;g__GCA-2724215,
+TARA_ION_MAG_00049.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00024.fa,none,,0,0,0,0,0,0,0,0.667,0.0164,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00047.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00121.fa,none,,0,0,0,0,0,0,0,0.584,0.0361,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00039.fa,genus,,0,0,0,0,0,0,0,1.0,0.993,d__Bacteria;p__Fusobacteriota;c__Fusobacteriia;o__bac17;f__UBA816;g__UBA816,
+TARA_ANE_MAG_00022.fa,genus,,0,0,0,0,0,0,0,1.0,0.766,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_PSE_MAG_00150.fa,none,,0,0,0,0,0,0,0,0.662,0.0694,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00054.fa,none,,0,0,0,0,0,0,0,0.667,0.0115,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00010.fa,genus,,0,0,0,0,0,0,0,1.0,0.98,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__GCA-2701885;f__GCA-2701885;g__GCA-2701885,
+TARA_PSE_MAG_00130.fa,genus,,0,0,0,0,0,0,0,1.0,0.85,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Bermanella,
+TARA_ASE_MAG_00018.fa,genus,,0,0,0,0,0,0,0,0.997,0.645,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia,
+TARA_MED_MAG_00001.fa,genus,,0,0,0,0,0,0,0,1.0,0.945,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED127;f__TMED127;g__GCA-2691145,
+TARA_PON_MAG_00042.fa,genus,,0,0,0,0,0,0,0,1.0,0.576,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Idiomarina,
+TARA_RED_MAG_00094.fa,none,,0,0,0,0,0,0,0,1.0,0.00697,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00010.fa,genus,,0,0,0,0,0,0,0,0.99,0.983,d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__UBA840;g__UBA3535,
+TARA_MED_MAG_00003.fa,genus,,0,0,0,0,0,0,0,0.996,0.837,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA7455,
+TARA_ION_MAG_00007.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00025.fa,none,,0,0,0,0,0,0,0,0.0,0.00249,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_MED_MAG_00014.fa,genus,,0,0,0,0,0,0,0,1.0,0.838,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__AAA164-E04;g__AAA164-E04,
+TARA_MED_MAG_00119.fa,none,,0,0,0,0,0,0,0,0.667,0.00505,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00127.fa,genus,,0,0,0,0,0,0,0,1.0,0.394,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__Phycisphaeraceae;g__UBA7800,
+TARA_MED_MAG_00084.fa,none,,0,0,0,0,0,0,0,1.0,0.00287,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00060.fa,none,,0,0,0,0,0,0,0,1.0,0.00714,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00086.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00121.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00029.fa,none,,0,0,0,0,0,0,0,0.0,0.00212,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00032.fa,genus,,0,0,0,0,0,0,0,1.0,0.596,d__Bacteria;p__Bdellovibrionota;c__Bacteriovoracia;o__Bacteriovoracales;f__Bacteriovoracaceae;g__UBA1511,
+TARA_PSW_MAG_00106.fa,genus,,0,0,0,0,0,0,0,1.0,0.751,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366;g__UBA8366,
+TARA_RED_MAG_00011.fa,genus,,0,0,0,0,0,0,0,1.0,0.787,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__AAA164-E04;g__UBA7971,
+TARA_RED_MAG_00077.fa,none,,0,0,0,0,0,0,0,0.6,0.011,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00030.fa,none,,0,0,0,0,0,0,0,0.561,0.0214,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00126.fa,genus,,0,0,0,0,0,0,0,1.0,0.825,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__UBA7805;g__UBA7805,
+TARA_MED_MAG_00096.fa,none,,0,0,0,0,0,0,0,0.765,0.0215,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00058.fa,none,,0,0,0,0,0,0,0,1.0,0.0034,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00073.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00054.fa,none,,0,0,0,0,0,0,0,0.0,0.00429,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ANW_MAG_00073.fa,none,,0,0,0,0,0,0,0,0.485,0.0157,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00028.fa,none,,0,0,0,0,0,0,0,1.0,0.0453,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00110.fa,none,,0,0,0,0,0,0,0,0.833,0.00642,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00082.fa,genus,,0,0,0,0,0,0,0,1.0,0.988,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__UBA1135;g__GCA-2705055,
+TARA_RED_MAG_00078.fa,none,,0,0,0,0,0,0,0,1.0,0.00866,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00082.fa,none,,0,0,0,0,0,0,0,0.376,0.0701,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00004.fa,genus,,0,0,0,0,0,0,0,1.0,0.996,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA1113;f__UBA1113;g__GCA-2709565,
+TARA_ASW_MAG_00014.fa,none,,0,0,0,0,0,0,0,1.0,0.18,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00049.fa,none,,0,0,0,0,0,0,0,0.8,0.00747,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00060.fa,genus,,0,0,0,0,0,0,0,0.999,0.839,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA7446,
+TARA_PSW_MAG_00053.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00070.fa,genus,,0,0,0,0,0,0,0,1.0,0.98,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas_A,
+TARA_RED_MAG_00046.fa,none,,0,0,0,0,0,0,0,0.6,0.0101,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_SOC_MAG_00014.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00040.fa,none,,0,0,0,0,0,0,0,0.759,0.067,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00074.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00031.fa,genus,,0,0,0,0,0,0,0,1.0,0.527,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA7451,
+TARA_MED_MAG_00064.fa,genus,,0,0,0,0,0,0,0,1.0,0.885,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__TMED25;g__TMED25,
+TARA_IOS_MAG_00045.fa,genus,,0,0,0,0,0,0,0,0.999,0.798,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__Thalassarchaeum,
+TARA_RED_MAG_00045.fa,genus,,0,0,0,0,0,0,0,1.0,0.884,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Defluviicoccales;f__UBA2964;g__UBA2964,
+TARA_IOS_MAG_00019.fa,genus,,0,0,0,0,0,0,0,0.999,0.527,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UBA10066;g__GCA-2716065,
+TARA_RED_MAG_00081.fa,none,,0,0,0,0,0,0,0,0.562,0.0114,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00024.fa,genus,,0,0,0,0,0,0,0,0.999,0.926,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L2,
+TARA_ANW_MAG_00060.fa,genus,,0,0,0,0,0,0,0,0.986,0.207,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__Casp-actino5,
+TARA_PSE_MAG_00025.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_SOC_MAG_00002.fa,genus,,0,0,0,0,0,0,0,0.99,0.673,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas_A,
+TARA_RED_MAG_00007.fa,genus,,0,0,0,0,0,0,0,0.975,0.968,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA6615;f__UBA6615;g__UBA8079,
+TARA_PSE_MAG_00087.fa,genus,,0,0,0,0,0,0,0,1.0,0.652,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA7916;f__UBA7916;g__UBA7916,
+TARA_IOS_MAG_00056.fa,none,,0,0,0,0,0,0,0,0.595,0.029,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_SOC_MAG_00012.fa,none,,0,0,0,0,0,0,0,1.0,0.0054,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00145.fa,none,,0,0,0,0,0,0,0,0.613,0.0798,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00034.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00099.fa,genus,,0,0,0,0,0,0,0,1.0,0.909,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__SW10,
+TARA_ION_MAG_00001.fa,genus,,0,0,0,0,0,0,0,0.999,0.879,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__TMED27,
+TARA_PSE_MAG_00065.fa,none,,0,0,0,0,0,0,0,1.0,0.00111,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00012.fa,genus,,0,0,0,0,0,0,0,0.996,0.358,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__GCA-002723295,
+TARA_ANW_MAG_00052.fa,genus,,0,0,0,0,0,0,0,1.0,0.741,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G2B,
+TARA_ASW_MAG_00045.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00027.fa,none,,0,0,0,0,0,0,0,1.0,0.00844,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00062.fa,genus,,0,0,0,0,0,0,0,1.0,0.861,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Cryomorphaceae;g__TMED14,
+TARA_ANE_MAG_00013.fa,genus,,0,0,0,0,0,0,0,0.999,0.803,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UA16;g__UBA11663,
+TARA_ION_MAG_00038.fa,none,,0,0,0,0,0,0,0,0.0,0.00252,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PON_MAG_00024.fa,genus,,0,0,0,0,0,0,0,0.999,0.991,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA2161,
+TARA_PSW_MAG_00117.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00020.fa,none,,0,0,0,0,0,0,0,0.963,0.0702,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00017.fa,none,,0,0,0,0,0,0,0,0.286,0.0166,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00037.fa,none,,0,0,0,0,0,0,0,0.0,0.0101,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PON_MAG_00033.fa,none,,0,0,0,0,0,0,0,0.962,0.0139,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00093.fa,genus,,0,0,0,0,0,0,0,1.0,0.917,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA9264,
+TARA_IOS_MAG_00003.fa,genus,,0,0,0,0,0,0,0,1.0,0.988,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Parvularculaceae;g__Marinicaulis,
+TARA_PSW_MAG_00078.fa,none,,0,0,0,0,0,0,0,0.375,0.0121,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00061.fa,genus,,0,0,0,0,0,0,0,0.999,0.754,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA7916;f__GCA-002691585;g__GCA-002691585,
+TARA_PSW_MAG_00128.fa,none,,0,0,0,0,0,0,0,0.781,0.182,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00036.fa,none,,0,0,0,0,0,0,0,1.0,0.00172,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00071.fa,none,,0,0,0,0,0,0,0,1.0,0.00319,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00006.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_SOC_MAG_00003.fa,genus,,0,0,0,0,0,0,0,1.0,0.892,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UA16;g__UBA974,
+TARA_ION_MAG_00066.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00039.fa,genus,,0,0,0,0,0,0,0,1.0,0.745,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N1,
+TARA_PSE_MAG_00072.fa,none,,0,0,0,0,0,0,0,0.556,0.0035,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00020.fa,none,,0,0,0,0,0,0,0,0.368,0.01,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00131.fa,genus,,0,0,0,0,0,0,0,0.995,0.248,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA11606;g__UBA11606,
+TARA_PSW_MAG_00002.fa,genus,,0,0,0,0,0,0,0,1.0,0.893,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__2-02-FULL-58-16_A;g__GCA-2717285,
+TARA_RED_MAG_00035.fa,none,,0,0,0,0,0,0,0,1.0,0.0136,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00011.fa,none,,0,0,0,0,0,0,0,0.0,0.00198,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_IOS_MAG_00036.fa,none,,0,0,0,0,0,0,0,0.995,0.178,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00034.fa,genus,,0,0,0,0,0,0,0,1.0,0.683,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA828;f__UBA828;g__GCA-2717225,
+TARA_ANE_MAG_00059.fa,genus,,0,0,0,0,0,0,0,0.998,0.646,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA11606;g__UBA11606,
+TARA_MED_MAG_00039.fa,genus,,0,0,0,0,0,0,0,0.995,0.474,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED109;f__TMED131;g__TMED131,
+TARA_PSW_MAG_00108.fa,none,,0,0,0,0,0,0,0,1.0,0.0147,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00026.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00069.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PON_MAG_00050.fa,genus,,0,0,0,0,0,0,0,1.0,0.632,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_PSW_MAG_00046.fa,genus,,0,0,0,0,0,0,0,0.998,0.856,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA7887;f__GCA-2721365;g__GCA-2721365,
+TARA_PSW_MAG_00064.fa,genus,,0,0,0,0,0,0,0,1.0,0.53,d__Bacteria;p__Myxococcota;c__UBA727;o__UBA4151;f__UBA4151;g__UBA4151,
+TARA_MED_MAG_00132.fa,none,,0,0,0,0,0,0,0,0.76,0.0122,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00135.fa,none,,0,0,0,0,0,0,0,0.852,0.0133,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00055.fa,genus,,0,0,0,0,0,0,0,1.0,0.919,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA7985;f__UBA7985;g__UBA7985,
+TARA_PSW_MAG_00027.fa,genus,,0,0,0,0,0,0,0,1.0,0.507,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA721,
+TARA_PSE_MAG_00137.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00048.fa,genus,,0,0,0,0,0,0,0,1.0,0.585,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__Thalassospiraceae;g__Thalassospira,
+TARA_ANE_MAG_00055.fa,genus,,0,0,0,0,0,0,0,0.98,0.482,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia,
+TARA_ANW_MAG_00074.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00041.fa,none,,0,0,0,0,0,0,0,0.0,0.00172,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00007.fa,genus,,0,0,0,0,0,0,0,1.0,0.993,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__koll-22;g__UBA5081,
+TARA_MED_MAG_00122.fa,none,,0,0,0,0,0,0,0,0.3,0.0117,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00039.fa,genus,,0,0,0,0,0,0,0,1.0,0.928,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__GCA-2701545,
+TARA_ASW_MAG_00019.fa,none,,0,0,0,0,0,0,0,0.974,0.0536,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00071.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00116.fa,genus,,0,0,0,0,0,0,0,1.0,0.981,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__UBA2009,
+TARA_PSE_MAG_00088.fa,none,,0,0,0,0,0,0,0,0.375,0.00837,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00044.fa,none,,0,0,0,0,0,0,0,1.0,0.0321,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00100.fa,none,,0,0,0,0,0,0,0,0.4,0.0442,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00037.fa,genus,,0,0,0,0,0,0,0,0.999,0.679,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Oleibacter,
+TARA_ASW_MAG_00010.fa,genus,,0,0,0,0,0,0,0,0.994,0.924,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Microbacteriaceae;g__UBA1487,
+TARA_ANW_MAG_00041.fa,none,,0,0,0,0,0,0,0,0.308,0.023,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00070.fa,none,,0,0,0,0,0,0,0,0.757,0.101,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00073.fa,none,,0,0,0,0,0,0,0,0.784,0.0482,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00046.fa,genus,,0,0,0,0,0,0,0,0.995,0.481,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellae;o__Kiritimatiellales;f__UBA1859;g__GCA-2712105,
+TARA_PSW_MAG_00037.fa,none,,0,0,0,0,0,0,0,1.0,0.0125,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00004.fa,none,,0,0,0,0,0,0,0,0.977,0.0857,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00025.fa,none,,0,0,0,0,0,0,0,1.0,0.0187,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00059.fa,genus,,0,0,0,0,0,0,0,0.999,0.885,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__TMED25;g__TMED25,
+TARA_PSE_MAG_00128.fa,genus,,0,0,0,0,0,0,0,0.998,0.539,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Vibrionaceae;g__Vibrio,
+TARA_ANE_MAG_00061.fa,none,,0,0,0,0,0,0,0,0.333,0.0124,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00061.fa,genus,,0,0,0,0,0,0,0,0.982,0.352,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__UBA8444,
+TARA_RED_MAG_00010.fa,none,,0,0,0,0,0,0,0,1.0,0.0208,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00029.fa,none,,0,0,0,0,0,0,0,0.786,0.0216,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00057.fa,genus,,0,0,0,0,0,0,0,1.0,0.713,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA828;f__UBA828;g__GCA-2714015,
+TARA_PSW_MAG_00130.fa,genus,,0,0,0,0,0,0,0,1.0,0.692,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__Phycisphaeraceae;g__UBA7800,
+TARA_PON_MAG_00026.fa,genus,,0,0,0,0,0,0,0,0.999,0.791,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__UBA1014,
+TARA_RED_MAG_00003.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PON_MAG_00047.fa,genus,,0,0,0,0,0,0,0,0.999,0.838,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_ASW_MAG_00043.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00070.fa,genus,,0,0,0,0,0,0,0,1.0,0.778,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_RED_MAG_00068.fa,genus,,0,0,0,0,0,0,0,0.993,0.368,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellae;o__Kiritimatiellales;f__UBA1859;g__GCA-2712105,
+TARA_IOS_MAG_00028.fa,genus,,0,0,0,0,0,0,0,0.999,0.868,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UA16;g__UBA974,
+TARA_ION_MAG_00020.fa,none,,0,0,0,0,0,0,0,0.0,0.00843,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSW_MAG_00045.fa,genus,,0,0,0,0,0,0,0,0.993,0.374,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__LS-SOB;g__UBA5682,
+TARA_RED_MAG_00054.fa,genus,,0,0,0,0,0,0,0,0.999,0.95,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__LS-SOB;g__GCA-2724185,
+TARA_ANE_MAG_00062.fa,none,,0,0,0,0,0,0,0,0.8,0.00725,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00022.fa,genus,,0,0,0,0,0,0,0,1.0,0.796,d__Bacteria;p__Bdellovibrionota;c__Bacteriovoracia;o__Bacteriovoracales;f__Bacteriovoracaceae;g__UBA7317,
+TARA_MED_MAG_00124.fa,none,,0,0,0,0,0,0,0,0.868,0.0644,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00068.fa,genus,,0,0,0,0,0,0,0,1.0,0.922,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_ASW_MAG_00015.fa,genus,,0,0,0,0,0,0,0,0.998,0.757,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G1,
+TARA_MED_MAG_00032.fa,none,,0,0,0,0,0,0,0,1.0,0.0241,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00009.fa,genus,,0,0,0,0,0,0,0,1.0,0.957,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8592;g__MedAcidi-G2A,
+TARA_ANE_MAG_00010.fa,none,,0,0,0,0,0,0,0,1.0,0.0261,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00093.fa,genus,,0,0,0,0,0,0,0,1.0,0.271,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__GCA-2862715,
+TARA_PSW_MAG_00043.fa,genus,,0,0,0,0,0,0,0,1.0,0.868,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L3,
+TARA_ASE_MAG_00029.fa,none,,0,0,0,0,0,0,0,0.818,0.0128,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00095.fa,none,,0,0,0,0,0,0,0,0.723,0.0235,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00136.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00044.fa,genus,,0,0,0,0,0,0,0,1.0,0.58,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__Bin127;g__GCA-002708145,
+TARA_PSE_MAG_00090.fa,none,,0,0,0,0,0,0,0,0.882,0.0139,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00004.fa,genus,,0,0,0,0,0,0,0,1.0,0.91,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366;g__GCA-002724395,
+TARA_ANE_MAG_00053.fa,none,,0,0,0,0,0,0,0,0.533,0.0493,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00004.fa,genus,,0,0,0,0,0,0,0,0.991,0.524,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__TK06;g__UBA7388,
+TARA_MED_MAG_00063.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00028.fa,genus,,0,0,0,0,0,0,0,1.0,0.92,d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Spirochaetales;f__Alkalispirochaetaceae;g__Alkalispirochaeta,
+TARA_IOS_MAG_00062.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00016.fa,genus,,0,0,0,0,0,0,0,1.0,0.993,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__UBA2705,
+TARA_RED_MAG_00096.fa,none,,0,0,0,0,0,0,0,0.787,0.144,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00066.fa,genus,,0,0,0,0,0,0,0,0.998,0.807,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__GCA-002705045,
+TARA_RED_MAG_00084.fa,none,,0,0,0,0,0,0,0,0.703,0.0357,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00086.fa,none,,0,0,0,0,0,0,0,0.985,0.0305,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00011.fa,none,,0,0,0,0,0,0,0,1.0,0.00822,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00091.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00069.fa,genus,,0,0,0,0,0,0,0,1.0,0.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UBA10066;g__UBA10066,
+TARA_PON_MAG_00030.fa,genus,,0,0,0,0,0,0,0,0.996,0.639,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Synechococcales;f__Cyanobiaceae;g__Synechococcus_C,
+TARA_ANE_MAG_00058.fa,genus,,0,0,0,0,0,0,0,1.0,0.809,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__GCA-002705045,
+TARA_PSE_MAG_00043.fa,genus,,0,0,0,0,0,0,0,1.0,0.796,d__Bacteria;p__Dadabacteria;c__UBA1144;o__UBA1144;f__UBA1144;g__TMED58,
+TARA_ANW_MAG_00055.fa,genus,,0,0,0,0,0,0,0,0.994,0.609,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA2963;f__UBA2963;g__UBA2963,
+TARA_PSE_MAG_00091.fa,genus,,0,0,0,0,0,0,0,0.997,0.58,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__Casp-actino5,
+TARA_PSE_MAG_00131.fa,none,,0,0,0,0,0,0,0,0.805,0.0875,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00132.fa,genus,,0,0,0,0,0,0,0,1.0,0.974,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas,
+TARA_MED_MAG_00097.fa,none,,0,0,0,0,0,0,0,0.556,0.00923,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00047.fa,genus,,0,0,0,0,0,0,0,1.0,0.926,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA4575;f__UBA4575;g__UBA1858,
+TARA_PSW_MAG_00103.fa,genus,,0,0,0,0,0,0,0,0.997,0.721,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__GCA-2715565,
+TARA_PSW_MAG_00114.fa,genus,,0,0,0,0,0,0,0,1.0,0.904,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__GCA-002722245;g__GCA-002722245,
+TARA_ASE_MAG_00025.fa,none,,0,0,0,0,0,0,0,0.318,0.0473,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00092.fa,none,,0,0,0,0,0,0,0,0.75,0.0112,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00043.fa,none,,0,0,0,0,0,0,0,0.5,0.00375,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00059.fa,genus,,0,0,0,0,0,0,0,1.0,0.747,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__GCA-002724215;g__GCA-2693325,
+TARA_IOS_MAG_00068.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00004.fa,genus,,0,0,0,0,0,0,0,1.0,0.991,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Emcibacteraceae;g__UBA4149,
+TARA_IOS_MAG_00060.fa,none,,0,0,0,0,0,0,0,0.901,0.0321,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00076.fa,none,,0,0,0,0,0,0,0,0.6,0.00351,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00032.fa,genus,,0,0,0,0,0,0,0,0.998,0.938,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Stappiaceae;g__Stappia,
+TARA_MED_MAG_00138.fa,none,,0,0,0,0,0,0,0,0.875,0.0166,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00012.fa,none,,0,0,0,0,0,0,0,0.875,0.00688,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00033.fa,none,,0,0,0,0,0,0,0,0.346,0.0365,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00053.fa,none,,0,0,0,0,0,0,0,0.586,0.15,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00062.fa,none,,0,0,0,0,0,0,0,0.985,0.0925,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00124.fa,none,,0,0,0,0,0,0,0,0.5,0.00798,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00065.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00056.fa,genus,,0,0,0,0,0,0,0,1.0,0.296,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_ION_MAG_00033.fa,none,,0,0,0,0,0,0,0,1.0,0.176,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00081.fa,none,,0,0,0,0,0,0,0,0.588,0.0531,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00087.fa,none,,0,0,0,0,0,0,0,0.614,0.0197,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00013.fa,genus,,0,0,0,0,0,0,0,0.999,0.963,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Winogradskyella,
+TARA_ANW_MAG_00076.fa,none,,0,0,0,0,0,0,0,0.5,0.0118,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00011.fa,none,,0,0,0,0,0,0,0,1.0,0.00457,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00097.fa,none,,0,0,0,0,0,0,0,0.857,0.0135,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00015.fa,genus,,0,0,0,0,0,0,0,1.0,0.995,d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptonemataceae;g__UBA3465,
+TARA_PON_MAG_00039.fa,none,,0,0,0,0,0,0,0,0.962,0.0937,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00025.fa,none,,0,0,0,0,0,0,0,0.525,0.048,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00038.fa,genus,,0,0,0,0,0,0,0,0.999,0.583,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_RED_MAG_00059.fa,none,,0,0,0,0,0,0,0,0.444,0.00909,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00068.fa,none,,0,0,0,0,0,0,0,0.571,0.00636,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00054.fa,none,,0,0,0,0,0,0,0,1.0,0.0127,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00026.fa,genus,,0,0,0,0,0,0,0,1.0,0.22,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_ION_MAG_00052.fa,none,,0,0,0,0,0,0,0,0.0,0.00159,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSW_MAG_00105.fa,genus,,0,0,0,0,0,0,0,1.0,0.727,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_MED_MAG_00142.fa,genus,,0,0,0,0,0,0,0,1.0,0.667,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas,
+TARA_PSE_MAG_00023.fa,genus,,0,0,0,0,0,0,0,0.988,0.913,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA1926,
+TARA_MED_MAG_00021.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00034.fa,genus,,0,0,0,0,0,0,0,0.999,0.775,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Puniceispirillales;f__UBA1172;g__UBA12202,
+TARA_PSW_MAG_00123.fa,genus,,0,0,0,0,0,0,0,0.999,0.714,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA2386;f__UBA2386;g__GCA-2684655,
+TARA_MED_MAG_00046.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ASE_MAG_00017.fa,none,,0,0,0,0,0,0,0,0.25,0.0333,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00040.fa,genus,,0,0,0,0,0,0,0,1.0,0.475,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O3,
+TARA_ANW_MAG_00065.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00060.fa,genus,,0,0,0,0,0,0,0,1.0,0.721,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia,
+TARA_ANE_MAG_00094.fa,none,,0,0,0,0,0,0,0,0.774,0.1,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00043.fa,genus,,0,0,0,0,0,0,0,1.0,0.954,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1151;g__GCA-2730555,
+TARA_PON_MAG_00069.fa,none,,0,0,0,0,0,0,0,0.0,0.00459,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_IOS_MAG_00057.fa,genus,,0,0,0,0,0,0,0,1.0,0.78,d__Bacteria;p__Myxococcota;c__UBA727;o__UBA4151;f__UBA4151;g__UBA4151,
+TARA_PSW_MAG_00113.fa,genus,,0,0,0,0,0,0,0,1.0,0.905,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA1668,
+TARA_RED_MAG_00008.fa,none,,0,0,0,0,0,0,0,0.548,0.0139,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00079.fa,genus,,0,0,0,0,0,0,0,1.0,0.917,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L2,
+TARA_MED_MAG_00100.fa,none,,0,0,0,0,0,0,0,1.0,0.0117,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00063.fa,genus,,0,0,0,0,0,0,0,1.0,0.7,d__Bacteria;p__Myxococcota;c__UBA9042;o__UBA9042;f__UBA9042;g__UBA9042,
+TARA_PSE_MAG_00079.fa,genus,,0,0,0,0,0,0,0,0.997,0.34,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3537,
+TARA_ANW_MAG_00042.fa,none,,0,0,0,0,0,0,0,0.571,0.0285,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00120.fa,genus,,0,0,0,0,0,0,0,1.0,0.865,d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptonemataceae;g__UBA3465,
+TARA_RED_MAG_00082.fa,none,,0,0,0,0,0,0,0,0.6,0.0112,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00044.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00016.fa,genus,,0,0,0,0,0,0,0,0.987,0.401,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Tistrellales;f__Tistrellaceae;g__Tistrella,
+TARA_PSE_MAG_00001.fa,genus,,0,0,0,0,0,0,0,1.0,0.975,d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__UBA7797,
+TARA_ION_MAG_00018.fa,none,,0,0,0,0,0,0,0,1.0,0.0139,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00005.fa,genus,,0,0,0,0,0,0,0,0.998,0.976,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Olleya,
+TARA_MED_MAG_00056.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00017.fa,genus,,0,0,0,0,0,0,0,1.0,0.996,d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptonemataceae;g__UBA3465,
+TARA_PSW_MAG_00069.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00017.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00027.fa,genus,,0,0,0,0,0,0,0,0.996,0.745,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L3,
+TARA_MED_MAG_00015.fa,genus,,0,0,0,0,0,0,0,1.0,0.851,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__UBA7377,
+TARA_PSW_MAG_00023.fa,none,,0,0,0,0,0,0,0,0.655,0.0095,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00038.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00076.fa,genus,,0,0,0,0,0,0,0,0.998,0.7,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__UBA9611,
+TARA_PSW_MAG_00003.fa,genus,,0,0,0,0,0,0,0,1.0,0.995,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__koll-22;g__UBA852,
+TARA_PSW_MAG_00047.fa,none,,0,0,0,0,0,0,0,0.714,0.00329,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00023.fa,genus,,0,0,0,0,0,0,0,0.992,0.257,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3537,
+TARA_MED_MAG_00107.fa,none,,0,0,0,0,0,0,0,0.0,0.00786,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ASW_MAG_00032.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00016.fa,none,,0,0,0,0,0,0,0,0.571,0.00777,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00050.fa,none,,0,0,0,0,0,0,0,0.714,0.00517,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00059.fa,none,,0,0,0,0,0,0,0,0.571,0.0168,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00102.fa,none,,0,0,0,0,0,0,0,1.0,0.00719,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00076.fa,none,,0,0,0,0,0,0,0,0.87,0.162,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00117.fa,none,,0,0,0,0,0,0,0,0.0,0.00353,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_IOS_MAG_00048.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00061.fa,genus,,0,0,0,0,0,0,0,1.0,0.576,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus,
+TARA_IOS_MAG_00047.fa,genus,,0,0,0,0,0,0,0,0.994,0.617,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-K1,
+TARA_MED_MAG_00052.fa,genus,,0,0,0,0,0,0,0,1.0,0.794,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA7455,
+TARA_ANW_MAG_00014.fa,genus,,0,0,0,0,0,0,0,1.0,0.948,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA1668,
+TARA_PON_MAG_00016.fa,none,,0,0,0,0,0,0,0,0.559,0.0459,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00041.fa,none,,0,0,0,0,0,0,0,1.0,0.00765,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00012.fa,genus,,0,0,0,0,0,0,0,1.0,0.78,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,
+TARA_PSE_MAG_00056.fa,none,,0,0,0,0,0,0,0,0.692,0.0105,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00016.fa,genus,,0,0,0,0,0,0,0,1.0,0.948,d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA11657;g__UBA11657,
+TARA_PON_MAG_00002.fa,genus,,0,0,0,0,0,0,0,1.0,0.999,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__UBA3534;g__UBA3534,
+TARA_PSE_MAG_00073.fa,none,,0,0,0,0,0,0,0,0.714,0.0181,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00048.fa,genus,,0,0,0,0,0,0,0,1.0,0.737,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100;g__UBA1100,
+TARA_ANE_MAG_00002.fa,genus,,0,0,0,0,0,0,0,1.0,0.996,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__TMED2;g__TMED2,
+TARA_MED_MAG_00114.fa,genus,,0,0,0,0,0,0,0,0.994,0.734,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA11891,
+TARA_PSE_MAG_00063.fa,none,,0,0,0,0,0,0,0,0.0,0.00302,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ANW_MAG_00003.fa,genus,,0,0,0,0,0,0,0,0.997,0.982,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Emcibacteraceae;g__GCA-2700365,
+TARA_RED_MAG_00122.fa,none,,0,0,0,0,0,0,0,1.0,0.0166,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00043.fa,genus,,0,0,0,0,0,0,0,0.99,0.723,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_IOS_MAG_00017.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PON_MAG_00049.fa,genus,,0,0,0,0,0,0,0,0.999,0.815,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O3,
+TARA_RED_MAG_00090.fa,genus,,0,0,0,0,0,0,0,1.0,0.844,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L1,
+TARA_MED_MAG_00091.fa,genus,,0,0,0,0,0,0,0,0.999,0.79,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__UBA2165;g__TMED23,
+TARA_MED_MAG_00111.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00148.fa,genus,,0,0,0,0,0,0,0,0.999,0.748,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Vibrionaceae;g__Vibrio,
+TARA_PSW_MAG_00085.fa,none,,0,0,0,0,0,0,0,1.0,0.0373,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00013.fa,none,,0,0,0,0,0,0,0,0.5,0.00512,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00023.fa,genus,,0,0,0,0,0,0,0,0.999,0.886,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Oleiphilaceae;g__Marinobacter,
+TARA_IOS_MAG_00020.fa,none,,0,0,0,0,0,0,0,0.429,0.00487,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00010.fa,genus,,0,0,0,0,0,0,0,0.996,0.876,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Stappiaceae;g__Stappia,
+TARA_IOS_MAG_00023.fa,genus,,0,0,0,0,0,0,0,0.999,0.866,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__UBA1479;g__UBA1479,
+TARA_ANE_MAG_00004.fa,genus,,0,0,0,0,0,0,0,1.0,0.678,d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__UBA1275,
+TARA_PSW_MAG_00126.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ASW_MAG_00040.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00051.fa,none,,0,0,0,0,0,0,0,0.222,0.025,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00002.fa,genus,,0,0,0,0,0,0,0,1.0,0.939,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Nevskiales;f__Salinisphaeraceae;g__Salinisphaera,
+TARA_RED_MAG_00091.fa,none,,0,0,0,0,0,0,0,0.808,0.0226,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00125.fa,none,,0,0,0,0,0,0,0,0.795,0.0519,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00058.fa,none,,0,0,0,0,0,0,0,1.0,0.00134,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00028.fa,genus,,0,0,0,0,0,0,0,0.993,0.784,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__GCA-2691085;f__GCA-2691085;g__GCA-2691085,
+TARA_PON_MAG_00056.fa,genus,,0,0,0,0,0,0,0,1.0,0.95,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_PON_MAG_00040.fa,none,,0,0,0,0,0,0,0,0.952,0.164,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00060.fa,none,,0,0,0,0,0,0,0,0.727,0.00236,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00076.fa,none,,0,0,0,0,0,0,0,0.0,0.0069,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ION_MAG_00009.fa,genus,,0,0,0,0,0,0,0,0.999,0.774,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Nitrincolaceae;g__ASP10-02a,
+TARA_ION_MAG_00055.fa,genus,,0,0,0,0,0,0,0,0.998,0.672,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__TK06;g__UBA6944,
+TARA_MED_MAG_00053.fa,genus,,0,0,0,0,0,0,0,1.0,0.903,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N2,
+TARA_PSE_MAG_00024.fa,genus,,0,0,0,0,0,0,0,1.0,0.994,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Salipiger,
+TARA_ASE_MAG_00015.fa,none,,0,0,0,0,0,0,0,0.448,0.106,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00057.fa,none,,0,0,0,0,0,0,0,0.759,0.0245,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00124.fa,none,,0,0,0,0,0,0,0,0.988,0.158,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00006.fa,genus,,0,0,0,0,0,0,0,1.0,0.973,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__UBA3470;g__TMED8,
+TARA_ASE_MAG_00036.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00080.fa,genus,,0,0,0,0,0,0,0,1.0,0.869,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_ION_MAG_00051.fa,genus,,0,0,0,0,0,0,0,1.0,0.886,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__Fabibacter,
+TARA_PSE_MAG_00064.fa,genus,,0,0,0,0,0,0,0,0.997,0.948,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_PSE_MAG_00092.fa,none,,0,0,0,0,0,0,0,0.818,0.0172,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00064.fa,none,,0,0,0,0,0,0,0,1.0,0.0111,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00008.fa,genus,,0,0,0,0,0,0,0,0.985,0.501,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas,
+TARA_MED_MAG_00094.fa,none,,0,0,0,0,0,0,0,1.0,0.00727,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00104.fa,none,,0,0,0,0,0,0,0,0.667,0.0238,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00067.fa,genus,,0,0,0,0,0,0,0,1.0,0.721,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__GCA-002724215;g__GCA-2693325,
+TARA_ANE_MAG_00008.fa,genus,,0,0,0,0,0,0,0,1.0,0.978,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__UBA9664,
+TARA_RED_MAG_00048.fa,genus,,0,0,0,0,0,0,0,0.999,0.751,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__UBA9410,
+TARA_PSE_MAG_00037.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00012.fa,none,,0,0,0,0,0,0,0,0.842,0.00881,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00045.fa,genus,,0,0,0,0,0,0,0,0.992,0.334,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA998;f__UBA3002;g__GCA-2725445,
+TARA_PON_MAG_00051.fa,none,,0,0,0,0,0,0,0,0.393,0.0267,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00105.fa,genus,,0,0,0,0,0,0,0,0.999,0.88,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__LS-SOB;g__UBA5682,
+TARA_PON_MAG_00070.fa,none,,0,0,0,0,0,0,0,1.0,0.00472,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00003.fa,genus,,0,0,0,0,0,0,0,1.0,0.869,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Puniceicoccaceae;g__GCA-2699365,
+TARA_PSE_MAG_00070.fa,none,,0,0,0,0,0,0,0,0.9,0.0261,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00027.fa,none,,0,0,0,0,0,0,0,0.909,0.0984,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00080.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00036.fa,genus,,0,0,0,0,0,0,0,1.0,0.723,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_ASW_MAG_00046.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00066.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00096.fa,genus,,0,0,0,0,0,0,0,1.0,0.711,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,
+TARA_RED_MAG_00001.fa,genus,,0,0,0,0,0,0,0,0.999,0.988,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Citromicrobium,
+TARA_RED_MAG_00099.fa,genus,,0,0,0,0,0,0,0,0.999,0.828,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__GCA-002722245;g__GCA-002722245,
+TARA_IOS_MAG_00053.fa,none,,0,0,0,0,0,0,0,0.0,0.00817,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00014.fa,genus,,0,0,0,0,0,0,0,1.0,0.964,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__UBA7330,
+TARA_ANE_MAG_00019.fa,genus,,0,0,0,0,0,0,0,0.994,0.772,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N2,
+TARA_RED_MAG_00005.fa,genus,,0,0,0,0,0,0,0,0.999,0.848,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA6522;f__UBA6522;g__UBA6522,
+TARA_ION_MAG_00017.fa,genus,,0,0,0,0,0,0,0,1.0,0.47,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9659,
+TARA_PON_MAG_00058.fa,genus,,0,0,0,0,0,0,0,0.999,0.803,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Idiomarina,
+TARA_PSE_MAG_00127.fa,none,,0,0,0,0,0,0,0,1.0,0.00123,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00089.fa,none,,0,0,0,0,0,0,0,0.0,0.0083,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_IOS_MAG_00049.fa,genus,,0,0,0,0,0,0,0,1.0,0.407,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__UBA1268;g__UBA1268,
+TARA_RED_MAG_00123.fa,none,,0,0,0,0,0,0,0,0.952,0.0309,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00019.fa,none,,0,0,0,0,0,0,0,0.5,0.0196,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00101.fa,none,,0,0,0,0,0,0,0,0.333,0.00503,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00021.fa,none,,0,0,0,0,0,0,0,0.0,0.0015,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_MED_MAG_00043.fa,none,,0,0,0,0,0,0,0,0.0,0.00293,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ASW_MAG_00039.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00011.fa,genus,,0,0,0,0,0,0,0,0.997,0.845,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__MedAcidi-G1;g__MedAcidi-G1,
+TARA_ION_MAG_00064.fa,none,,0,0,0,0,0,0,0,1.0,0.035,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00045.fa,genus,,0,0,0,0,0,0,0,1.0,0.763,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus,
+TARA_MED_MAG_00057.fa,genus,,0,0,0,0,0,0,0,1.0,0.878,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Parvibaculales;f__RS24;g__UBA7378,
+TARA_PSW_MAG_00014.fa,none,,0,0,0,0,0,0,0,0.895,0.0137,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00023.fa,genus,,0,0,0,0,0,0,0,1.0,0.311,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8592;g__MedAcidi-G2A,
+TARA_ANW_MAG_00020.fa,none,,0,0,0,0,0,0,0,1.0,0.00252,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00055.fa,genus,,0,0,0,0,0,0,0,1.0,0.875,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-I,
+TARA_ANW_MAG_00023.fa,genus,,0,0,0,0,0,0,0,0.997,0.529,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__BACL11,
+TARA_PSE_MAG_00074.fa,none,,0,0,0,0,0,0,0,0.429,0.0172,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00001.fa,genus,,0,0,0,0,0,0,0,0.994,0.993,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Parvibaculales;f__Parvibaculaceae;g__Parvibaculum,
+TARA_ANW_MAG_00005.fa,genus,,0,0,0,0,0,0,0,1.0,0.998,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Methylococcales;f__Cycloclasticaceae;g__Cycloclasticus,
+TARA_ANW_MAG_00016.fa,none,,0,0,0,0,0,0,0,0.0,0.00468,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_RED_MAG_00019.fa,genus,,0,0,0,0,0,0,0,1.0,0.867,d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA11657;g__UBA11657,
+TARA_MED_MAG_00020.fa,genus,,0,0,0,0,0,0,0,0.997,0.376,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED109;f__TMED131;g__MED722,
+TARA_MED_MAG_00066.fa,none,,0,0,0,0,0,0,0,0.0,0.00176,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00033.fa,genus,,0,0,0,0,0,0,0,0.998,0.457,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__TMED113;g__GCA-002701365,
+TARA_ASE_MAG_00024.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00056.fa,none,,0,0,0,0,0,0,0,1.0,0.00318,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00051.fa,none,,0,0,0,0,0,0,0,0.333,0.00933,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00055.fa,genus,,0,0,0,0,0,0,0,1.0,0.573,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellae;o__Kiritimatiellales;f__UBA1859;g__UBA1859,
+TARA_PSE_MAG_00114.fa,none,,0,0,0,0,0,0,0,0.27,0.0801,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00085.fa,genus,,0,0,0,0,0,0,0,1.0,0.908,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA2968;f__UBA2968;g__UBA2968,
+TARA_MED_MAG_00118.fa,none,,0,0,0,0,0,0,0,0.375,0.0207,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00030.fa,genus,,0,0,0,0,0,0,0,1.0,0.921,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O1,
+TARA_MED_MAG_00106.fa,none,,0,0,0,0,0,0,0,0.286,0.00829,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00032.fa,genus,,0,0,0,0,0,0,0,1.0,0.926,d__Bacteria;p__Myxococcota;c__UBA796;o__UBA9615;f__UBA9615;g__GCA-2724675,
+TARA_IOS_MAG_00035.fa,none,,0,0,0,0,0,0,0,1.0,0.00125,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00009.fa,genus,,0,0,0,0,0,0,0,0.999,0.972,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Cryomorphaceae;g__UBA7878,
+TARA_ASW_MAG_00035.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00089.fa,none,,0,0,0,0,0,0,0,1.0,0.0159,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00093.fa,none,,0,0,0,0,0,0,0,1.0,0.00122,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00021.fa,genus,,0,0,0,0,0,0,0,0.997,0.679,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__GCA-002723295,
+TARA_MED_MAG_00073.fa,genus,,0,0,0,0,0,0,0,1.0,0.846,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Puniceicoccaceae;g__Coraliomargarita,
+TARA_MED_MAG_00022.fa,genus,,0,0,0,0,0,0,0,0.999,0.867,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Ga0077536_A;f__TMED69;g__TMED69,
+TARA_MED_MAG_00113.fa,none,,0,0,0,0,0,0,0,0.571,0.00875,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00113.fa,none,,0,0,0,0,0,0,0,1.0,0.00163,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00014.fa,none,,0,0,0,0,0,0,0,0.952,0.0686,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00112.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00122.fa,genus,,0,0,0,0,0,0,0,1.0,0.882,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA721,
+TARA_RED_MAG_00018.fa,none,,0,0,0,0,0,0,0,1.0,0.0112,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00112.fa,none,,0,0,0,0,0,0,0,0.6,0.0197,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00084.fa,none,,0,0,0,0,0,0,0,0.202,0.144,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00047.fa,none,,0,0,0,0,0,0,0,1.0,0.00146,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00073.fa,none,,0,0,0,0,0,0,0,0.0,0.00142,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_SOC_MAG_00004.fa,genus,,0,0,0,0,0,0,0,1.0,0.947,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__1G12;g__UBA6770,
+TARA_ANW_MAG_00036.fa,none,,0,0,0,0,0,0,0,0.977,0.0388,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00046.fa,genus,,0,0,0,0,0,0,0,1.0,0.67,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__TK06;g__UBA6944,
+TARA_MED_MAG_00136.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ASE_MAG_00008.fa,none,,0,0,0,0,0,0,0,1.0,0.031,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00009.fa,genus,,0,0,0,0,0,0,0,0.993,0.874,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_MED_MAG_00019.fa,genus,,0,0,0,0,0,0,0,0.999,0.84,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UBA7430;g__GCA-2692065,
+TARA_PSW_MAG_00042.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00100.fa,none,,0,0,0,0,0,0,0,1.0,0.0531,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00087.fa,none,,0,0,0,0,0,0,0,1.0,0.0134,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00041.fa,genus,,0,0,0,0,0,0,0,1.0,0.895,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_PSE_MAG_00121.fa,genus,,0,0,0,0,0,0,0,1.0,0.883,d__Bacteria;p__Myxococcota;c__UBA796;o__UBA796;f__UBA796;g__UBA796,
+TARA_PSW_MAG_00021.fa,genus,,0,0,0,0,0,0,0,1.0,0.875,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA7916;f__UBA729;g__UBA729,
+TARA_PSW_MAG_00090.fa,none,,0,0,0,0,0,0,0,1.0,0.0565,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00097.fa,genus,,0,0,0,0,0,0,0,1.0,0.786,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__UBA721,
+TARA_PSW_MAG_00132.fa,none,,0,0,0,0,0,0,0,1.0,0.0774,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00086.fa,none,,0,0,0,0,0,0,0,0.528,0.0386,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00030.fa,genus,,0,0,0,0,0,0,0,1.0,0.733,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-I,
+TARA_MED_MAG_00072.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00026.fa,none,,0,0,0,0,0,0,0,0.429,0.00877,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00033.fa,genus,,0,0,0,0,0,0,0,1.0,0.8,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA2962;g__UBA2962,
+TARA_IOS_MAG_00055.fa,genus,,0,0,0,0,0,0,0,0.998,0.685,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Opitutaceae;g__UBA5691,
+TARA_RED_MAG_00061.fa,genus,,0,0,0,0,0,0,0,1.0,0.81,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__UBA3495,
+TARA_IOS_MAG_00063.fa,genus,,0,0,0,0,0,0,0,0.978,0.576,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Oleiphilaceae;g__Marinobacter,
+TARA_PSE_MAG_00050.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ASW_MAG_00041.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_SOC_MAG_00008.fa,none,,0,0,0,0,0,0,0,0.0,0.00171,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_IOS_MAG_00042.fa,none,,0,0,0,0,0,0,0,1.0,0.00559,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_SOC_MAG_00011.fa,genus,,0,0,0,0,0,0,0,0.999,0.749,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Polaribacter,
+TARA_MED_MAG_00067.fa,genus,,0,0,0,0,0,0,0,1.0,0.652,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__UBA7377,
+TARA_MED_MAG_00035.fa,none,,0,0,0,0,0,0,0,0.478,0.0155,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00004.fa,genus,,0,0,0,0,0,0,0,1.0,0.528,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Limnobacter,
+TARA_PSE_MAG_00051.fa,genus,,0,0,0,0,0,0,0,0.994,0.553,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Woeseiales;f__Woeseiaceae;g__GCA-2685275,
+TARA_MED_MAG_00141.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00099.fa,none,,0,0,0,0,0,0,0,0.0,0.00452,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ANW_MAG_00031.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PON_MAG_00048.fa,genus,,0,0,0,0,0,0,0,1.0,0.903,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__UBA1135;g__UBA7888,
+TARA_RED_MAG_00117.fa,genus,,0,0,0,0,0,0,0,1.0,0.946,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA2968;f__UBA2968;g__UBA2968,
+TARA_PSE_MAG_00053.fa,genus,,0,0,0,0,0,0,0,1.0,0.753,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Cryomorphaceae;g__UBA10364,
+TARA_ION_MAG_00074.fa,none,,0,0,0,0,0,0,0,1.0,0.0018,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00036.fa,none,,0,0,0,0,0,0,0,0.826,0.0193,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00079.fa,none,,0,0,0,0,0,0,0,0.769,0.0216,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00077.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00042.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00044.fa,genus,,0,0,0,0,0,0,0,1.0,0.264,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O3,
+TARA_PSE_MAG_00058.fa,genus,,0,0,0,0,0,0,0,0.998,0.253,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA8087,
+TARA_MED_MAG_00071.fa,none,,0,0,0,0,0,0,0,0.714,0.0165,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00028.fa,genus,,0,0,0,0,0,0,0,0.999,1.0,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983_A;f__UBA2163;g__OLB19,
+TARA_PSW_MAG_00115.fa,none,,0,0,0,0,0,0,0,0.83,0.0652,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00036.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00046.fa,genus,,0,0,0,0,0,0,0,1.0,0.72,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__TK06;g__MedAcidi-G3,
+TARA_ANE_MAG_00018.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00038.fa,genus,,0,0,0,0,0,0,0,1.0,0.86,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA4421,
+TARA_RED_MAG_00111.fa,genus,,0,0,0,0,0,0,0,1.0,0.78,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__GCA-002728675,
+TARA_ANE_MAG_00024.fa,none,,0,0,0,0,0,0,0,0.737,0.0304,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00038.fa,none,,0,0,0,0,0,0,0,0.562,0.0223,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00026.fa,genus,,0,0,0,0,0,0,0,0.999,0.962,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Arsukibacterium,
+TARA_ION_MAG_00025.fa,genus,,0,0,0,0,0,0,0,1.0,0.67,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Stappiaceae;g__Labrenzia,
+TARA_ANW_MAG_00044.fa,none,,0,0,0,0,0,0,0,0.0,0.00176,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_RED_MAG_00052.fa,none,,0,0,0,0,0,0,0,0.898,0.0915,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00013.fa,genus,,0,0,0,0,0,0,0,0.998,0.911,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_PSE_MAG_00066.fa,genus,,0,0,0,0,0,0,0,0.999,0.893,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA1668,
+TARA_PSE_MAG_00047.fa,none,,0,0,0,0,0,0,0,0.6,0.0181,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00092.fa,none,,0,0,0,0,0,0,0,0.348,0.0162,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00040.fa,genus,,0,0,0,0,0,0,0,1.0,0.909,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Defluviicoccales;f__UBA830;g__UBA830,
+TARA_PSE_MAG_00077.fa,genus,,0,0,0,0,0,0,0,0.962,0.63,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Citromicrobium,
+TARA_IOS_MAG_00005.fa,genus,,0,0,0,0,0,0,0,1.0,0.97,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Opitutaceae;g__UBA5691,
+TARA_ION_MAG_00012.fa,none,,0,0,0,0,0,0,0,0.857,0.0212,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00131.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00084.fa,none,,0,0,0,0,0,0,0,0.0,0.00508,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00082.fa,genus,,0,0,0,0,0,0,0,1.0,0.797,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA2386;f__UBA2386;g__GCA-2684655,
+TARA_ANE_MAG_00101.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00050.fa,none,,0,0,0,0,0,0,0,0.833,0.0122,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00048.fa,genus,,0,0,0,0,0,0,0,1.0,0.635,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED109;f__TMED109;g__TMED109,
+TARA_PSE_MAG_00081.fa,genus,,0,0,0,0,0,0,0,1.0,0.615,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__TMED-70;g__GCA-002700125,
+TARA_PON_MAG_00055.fa,genus,,0,0,0,0,0,0,0,1.0,0.672,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA4421,
+TARA_PSW_MAG_00007.fa,genus,,0,0,0,0,0,0,0,1.0,0.765,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,
+TARA_PSE_MAG_00105.fa,none,,0,0,0,0,0,0,0,1.0,0.0545,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00137.fa,genus,,0,0,0,0,0,0,0,1.0,0.783,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,
+TARA_RED_MAG_00031.fa,genus,,0,0,0,0,0,0,0,1.0,0.683,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA6926;f__UBA6926;g__UBA6926,
+TARA_PSW_MAG_00026.fa,genus,,0,0,0,0,0,0,0,1.0,0.896,d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfobacterales;f__Desulfobacteraceae;g__Desulfobacter,
+TARA_PSW_MAG_00077.fa,genus,,0,0,0,0,0,0,0,1.0,0.467,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Puniceispirillales;f__Puniceispirillaceae;g__HIMB100,
+TARA_ANE_MAG_00056.fa,genus,,0,0,0,0,0,0,0,1.0,0.908,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA2962;g__UBA2962,
+TARA_ASW_MAG_00023.fa,none,,0,0,0,0,0,0,0,0.95,0.0611,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00002.fa,genus,,0,0,0,0,0,0,0,0.988,0.74,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Maricaulaceae;g__Maricaulis,
+TARA_MED_MAG_00040.fa,none,,0,0,0,0,0,0,0,0.389,0.0104,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00064.fa,none,,0,0,0,0,0,0,0,0.75,0.00317,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00089.fa,genus,,0,0,0,0,0,0,0,0.999,0.738,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA854,
+TARA_ANW_MAG_00034.fa,none,,0,0,0,0,0,0,0,0.943,0.146,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00037.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00032.fa,none,,0,0,0,0,0,0,0,0.667,0.00436,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00101.fa,genus,,0,0,0,0,0,0,0,0.994,0.781,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-K2,
+TARA_PSW_MAG_00006.fa,genus,,0,0,0,0,0,0,0,1.0,0.903,d__Bacteria;p__Margulisbacteria;c__ZB3;o__UBA817;f__UBA817;g__UBA817,
+TARA_PSW_MAG_00011.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00063.fa,genus,,0,0,0,0,0,0,0,0.997,0.883,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O5,
+TARA_MED_MAG_00033.fa,genus,,0,0,0,0,0,0,0,1.0,0.952,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__SG8-40;g__UBA3031,
+TARA_MED_MAG_00123.fa,none,,0,0,0,0,0,0,0,0.0,0.00105,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00061.fa,genus,,0,0,0,0,0,0,0,1.0,0.837,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-P,
+TARA_ANE_MAG_00099.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00001.fa,none,,0,0,0,0,0,0,0,0.704,0.0149,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00052.fa,genus,,0,0,0,0,0,0,0,0.993,0.667,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,
+TARA_PSE_MAG_00094.fa,genus,,0,0,0,0,0,0,0,0.998,0.7,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Litoricolaceae;g__Litoricola,
+TARA_IOS_MAG_00006.fa,genus,,0,0,0,0,0,0,0,0.994,0.661,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Alcanivoracaceae;g__Alcanivorax,
+TARA_PON_MAG_00006.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_IOS_MAG_00077.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00015.fa,none,,0,0,0,0,0,0,0,1.0,0.00233,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_SOC_MAG_00013.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00024.fa,none,,0,0,0,0,0,0,0,0.7,0.00618,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00036.fa,none,,0,0,0,0,0,0,0,0.66,0.0399,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00008.fa,genus,,0,0,0,0,0,0,0,1.0,0.98,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Shewanellaceae;g__UBA2521,
+TARA_ANE_MAG_00070.fa,genus,,0,0,0,0,0,0,0,0.996,0.545,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Marinoscillaceae;g__Marinoscillum,
+TARA_MED_MAG_00005.fa,genus,,0,0,0,0,0,0,0,1.0,0.559,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__SCGC-AAA003-L08;f__TMED198;g__TMED198,
+TARA_MED_MAG_00016.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00010.fa,genus,,0,0,0,0,0,0,0,0.996,0.682,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aequorivita,
+TARA_IOS_MAG_00040.fa,none,,0,0,0,0,0,0,0,0.75,0.0066,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00057.fa,genus,,0,0,0,0,0,0,0,1.0,0.885,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N1,
+TARA_ANE_MAG_00044.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ION_MAG_00057.fa,none,,0,0,0,0,0,0,0,1.0,0.0218,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00026.fa,genus,,0,0,0,0,0,0,0,0.993,0.437,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA7985;f__UBA7985;g__UBA7985,
+TARA_MED_MAG_00002.fa,genus,,0,0,0,0,0,0,0,1.0,0.96,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA6522;f__UBA6522;g__TMED78,
+TARA_PON_MAG_00076.fa,none,,0,0,0,0,0,0,0,0.662,0.0287,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00140.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00062.fa,none,,0,0,0,0,0,0,0,1.0,0.0209,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00046.fa,genus,,0,0,0,0,0,0,0,0.999,0.642,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED109;f__TMED131;g__GCA-2732015,
+TARA_PSE_MAG_00038.fa,none,,0,0,0,0,0,0,0,1.0,0.00195,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00091.fa,genus,,0,0,0,0,0,0,0,1.0,0.842,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100;g__UBA1100,
+TARA_PON_MAG_00088.fa,none,,0,0,0,0,0,0,0,0.6,0.00639,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00019.fa,none,,0,0,0,0,0,0,0,0.372,0.0204,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00033.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00086.fa,none,,0,0,0,0,0,0,0,1.0,0.00216,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00060.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00018.fa,genus,,0,0,0,0,0,0,0,1.0,0.971,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__Phycisphaeraceae;g__UBA7800,
+TARA_IOS_MAG_00051.fa,genus,,0,0,0,0,0,0,0,0.996,0.385,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__S15-B10;g__GCA-002707905,
+TARA_ANE_MAG_00049.fa,none,,0,0,0,0,0,0,0,0.444,0.00929,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00057.fa,genus,,0,0,0,0,0,0,0,1.0,0.736,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__AAA164-E04;g__UBA2970,
+TARA_MED_MAG_00030.fa,genus,,0,0,0,0,0,0,0,1.0,0.943,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,
+TARA_RED_MAG_00009.fa,genus,,0,0,0,0,0,0,0,0.996,0.646,d__Bacteria;p__Dadabacteria;c__UBA1144;o__UBA1144;f__UBA1144;g__GCA-002715585,
+TARA_MED_MAG_00133.fa,none,,0,0,0,0,0,0,0,0.741,0.15,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00007.fa,none,,0,0,0,0,0,0,0,1.0,0.0225,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00080.fa,none,,0,0,0,0,0,0,0,0.7,0.0153,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00015.fa,none,,0,0,0,0,0,0,0,0.0,0.00303,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_RED_MAG_00051.fa,genus,,0,0,0,0,0,0,0,1.0,0.346,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__S15-B10;g__GCA-002707905,
+TARA_PON_MAG_00036.fa,none,,0,0,0,0,0,0,0,1.0,0.00636,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00024.fa,none,,0,0,0,0,0,0,0,0.882,0.0208,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00039.fa,none,,0,0,0,0,0,0,0,0.942,0.109,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00074.fa,genus,,0,0,0,0,0,0,0,1.0,0.75,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__UBA2705,
+TARA_RED_MAG_00026.fa,genus,,0,0,0,0,0,0,0,1.0,0.88,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA2966;f__UBA2966;g__UBA2966,
+TARA_ANE_MAG_00028.fa,genus,,0,0,0,0,0,0,0,0.999,0.871,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__TMED-70;g__TMED-70,
+TARA_MED_MAG_00116.fa,none,,0,0,0,0,0,0,0,0.0,0.00258,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSW_MAG_00017.fa,none,,0,0,0,0,0,0,0,0.859,0.141,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00134.fa,none,,0,0,0,0,0,0,0,0.724,0.198,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00110.fa,genus,,0,0,0,0,0,0,0,0.998,0.94,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA6615;f__UBA6615;g__UBA6615,
+TARA_ANE_MAG_00083.fa,genus,,0,0,0,0,0,0,0,1.0,0.326,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9659,
+TARA_MED_MAG_00080.fa,genus,,0,0,0,0,0,0,0,0.997,0.648,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-N2,
+TARA_MED_MAG_00109.fa,none,,0,0,0,0,0,0,0,0.571,0.0078,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00053.fa,none,,0,0,0,0,0,0,0,0.696,0.0288,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00049.fa,none,,0,0,0,0,0,0,0,0.6,0.00344,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00070.fa,none,,0,0,0,0,0,0,0,0.407,0.0288,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00088.fa,none,,0,0,0,0,0,0,0,0.0,0.00308,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_RED_MAG_00092.fa,genus,,0,0,0,0,0,0,0,1.0,0.922,d__Bacteria;p__UBA8248;c__UBA8248;o__UBA8248;f__UBA3496;g__UBA3496,
+TARA_ION_MAG_00054.fa,none,,0,0,0,0,0,0,0,0.0,0.00523,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_MED_MAG_00011.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00086.fa,none,,0,0,0,0,0,0,0,0.833,0.00479,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00026.fa,none,,0,0,0,0,0,0,0,0.947,0.0577,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00003.fa,genus,,0,0,0,0,0,0,0,1.0,0.98,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcystaceae;g__Atelocyanobacterium,
+TARA_ION_MAG_00031.fa,genus,,0,0,0,0,0,0,0,1.0,0.853,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_PSE_MAG_00139.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00108.fa,none,,0,0,0,0,0,0,0,0.524,0.0495,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00022.fa,genus,,0,0,0,0,0,0,0,1.0,0.993,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Saccharospirillaceae;g__Oleibacter,
+TARA_ASW_MAG_00029.fa,genus,,0,0,0,0,0,0,0,0.973,0.448,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_D,
+TARA_MED_MAG_00098.fa,genus,,0,0,0,0,0,0,0,1.0,0.88,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__NS11-12g;f__UBA9320;g__MED-G17,
+TARA_ION_MAG_00043.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANW_MAG_00027.fa,none,,0,0,0,0,0,0,0,0.0,0.0102,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PON_MAG_00005.fa,genus,,0,0,0,0,0,0,0,0.999,0.942,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Micavibrionales;f__Micavibrionaceae;g__UBA1672,
+TARA_MED_MAG_00009.fa,genus,,0,0,0,0,0,0,0,1.0,0.847,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__HTCC2207,
+TARA_RED_MAG_00049.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00038.fa,genus,,0,0,0,0,0,0,0,1.0,0.804,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus,
+TARA_ASW_MAG_00021.fa,none,,0,0,0,0,0,0,0,0.809,0.136,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_SOC_MAG_00007.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00031.fa,none,,0,0,0,0,0,0,0,0.0,0.00291,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSW_MAG_00104.fa,none,,0,0,0,0,0,0,0,0.905,0.0193,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00052.fa,none,,0,0,0,0,0,0,0,0.923,0.00751,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00035.fa,none,,0,0,0,0,0,0,0,0.875,0.0207,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00059.fa,none,,0,0,0,0,0,0,0,0.4,0.0667,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00071.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSW_MAG_00084.fa,genus,,0,0,0,0,0,0,0,1.0,0.771,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__UBA3470;g__UBA3470,
+TARA_SOC_MAG_00005.fa,none,,0,0,0,0,0,0,0,1.0,0.00179,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00098.fa,none,,0,0,0,0,0,0,0,0.333,0.017,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PON_MAG_00062.fa,none,,0,0,0,0,0,0,0,0.35,0.00551,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00057.fa,genus,,0,0,0,0,0,0,0,1.0,0.818,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA4421,
+TARA_ASE_MAG_00012.fa,genus,,0,0,0,0,0,0,0,0.997,0.649,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA4486;f__UBA4486;g__UBA11869,
+TARA_ASW_MAG_00002.fa,genus,,0,0,0,0,0,0,0,0.999,0.883,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__UBA1479;g__UBA1479,
+TARA_MED_MAG_00029.fa,genus,,0,0,0,0,0,0,0,0.998,0.515,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__TK06;g__UBA7388,
+TARA_PSW_MAG_00068.fa,none,,0,0,0,0,0,0,0,0.961,0.103,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00087.fa,genus,,0,0,0,0,0,0,0,1.0,0.782,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__UBA7377,
+TARA_RED_MAG_00067.fa,none,,0,0,0,0,0,0,0,0.476,0.0448,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00022.fa,none,,0,0,0,0,0,0,0,0.8,0.00383,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00023.fa,genus,,0,0,0,0,0,0,0,0.997,0.566,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__Bin127;g__GCA-2718415,
+TARA_ANE_MAG_00033.fa,none,,0,0,0,0,0,0,0,0.939,0.0321,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00016.fa,none,,0,0,0,0,0,0,0,1.0,0.00712,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00008.fa,genus,,0,0,0,0,0,0,0,1.0,0.909,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA4421,
+TARA_PSW_MAG_00016.fa,genus,,0,0,0,0,0,0,0,1.0,0.954,d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__UBA1609;g__UBA6776,
+TARA_RED_MAG_00030.fa,none,,0,0,0,0,0,0,0,0.987,0.019,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00112.fa,none,,0,0,0,0,0,0,0,1.0,0.00926,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00042.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00143.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_MED_MAG_00081.fa,genus,,0,0,0,0,0,0,0,0.998,0.845,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Pelagibacterales;f__Pelagibacteraceae;g__Pelagibacter_A,
+TARA_RED_MAG_00036.fa,genus,,0,0,0,0,0,0,0,1.0,0.922,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Planctomycetales;f__Planctomycetaceae;g__UBA8437,
+TARA_MED_MAG_00129.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PON_MAG_00017.fa,genus,,0,0,0,0,0,0,0,0.994,0.381,d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__UBA1547,
+TARA_ANW_MAG_00050.fa,none,,0,0,0,0,0,0,0,0.706,0.0434,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00045.fa,none,,0,0,0,0,0,0,0,1.0,0.00636,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00074.fa,none,,0,0,0,0,0,0,0,0.556,0.00455,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00116.fa,genus,,0,0,0,0,0,0,0,1.0,0.884,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus,
+TARA_MED_MAG_00075.fa,genus,,0,0,0,0,0,0,0,0.999,0.631,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O3,
+TARA_MED_MAG_00095.fa,none,,0,0,0,0,0,0,0,0.937,0.181,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00082.fa,none,,0,0,0,0,0,0,0,0.676,0.0114,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00069.fa,none,,0,0,0,0,0,0,0,0.0,0.00139,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ANE_MAG_00005.fa,genus,,0,0,0,0,0,0,0,1.0,0.886,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__SG8-23;f__UBA6960;g__UBA2589,
+TARA_PSE_MAG_00006.fa,none,,0,0,0,0,0,0,0,1.0,0.00118,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00025.fa,genus,,0,0,0,0,0,0,0,0.991,0.502,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UA16;g__UBA11663,
+TARA_PON_MAG_00057.fa,none,,0,0,0,0,0,0,0,0.842,0.0288,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00027.fa,genus,,0,0,0,0,0,0,0,0.999,0.875,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA11606;g__UBA11606,
+TARA_PSE_MAG_00080.fa,none,,0,0,0,0,0,0,0,0.0,0.00269,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_PSE_MAG_00018.fa,genus,,0,0,0,0,0,0,0,1.0,0.705,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__Fabibacter,
+TARA_PON_MAG_00013.fa,genus,,0,0,0,0,0,0,0,1.0,0.993,d__Bacteria;p__Myxococcota;c__UBA6777;o__UBA6777;f__UBA6777;g__UBA6777,
+TARA_ANW_MAG_00088.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00075.fa,none,,0,0,0,0,0,0,0,0.5,0.0118,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00006.fa,genus,,0,0,0,0,0,0,0,1.0,0.549,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366;g__UBA6544,
+TARA_PON_MAG_00041.fa,genus,,0,0,0,0,0,0,0,1.0,0.88,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__GCA-2730975,
+TARA_ION_MAG_00059.fa,none,,0,0,0,0,0,0,0,0.625,0.19,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANW_MAG_00022.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PSE_MAG_00085.fa,none,,0,0,0,0,0,0,0,0.0,0.00776,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_RED_MAG_00087.fa,none,,0,0,0,0,0,0,0,0.873,0.0426,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00039.fa,genus,,0,0,0,0,0,0,0,1.0,0.832,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UBA10066;g__MED-G20,
+TARA_MED_MAG_00083.fa,none,,0,0,0,0,0,0,0,0.859,0.0466,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00047.fa,none,,0,0,0,0,0,0,0,0.75,0.00602,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_RED_MAG_00119.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00035.fa,none,,0,0,0,0,0,0,0,0.583,0.0293,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ION_MAG_00035.fa,none,,0,0,0,0,0,0,0,1.0,0.0912,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00067.fa,none,,0,0,0,0,0,0,0,1.0,0.00122,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00059.fa,genus,,0,0,0,0,0,0,0,0.998,0.681,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED109;f__TMED131;g__GCA-2720125,
+TARA_MED_MAG_00013.fa,none,,0,0,0,0,0,0,0,0.5,0.00472,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASE_MAG_00021.fa,genus,,0,0,0,0,0,0,0,1.0,0.557,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA1994,
+TARA_PSE_MAG_00027.fa,none,,0,0,0,0,0,0,0,1.0,0.0355,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ANE_MAG_00020.fa,genus,,0,0,0,0,0,0,0,1.0,0.841,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__HIMB59;f__HIMB59;g__HIMB59,
+TARA_PSW_MAG_00088.fa,none,,0,0,0,0,0,0,0,0.636,0.00918,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_ASW_MAG_00017.fa,none,,0,0,0,0,0,0,0,0.767,0.0172,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00115.fa,none,,0,0,0,0,0,0,0,0.77,0.112,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00064.fa,genus,,0,0,0,0,0,0,0,1.0,0.715,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__GCA-002728675,
+TARA_MED_MAG_00044.fa,genus,,0,0,0,0,0,0,0,1.0,0.709,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,
+TARA_PSE_MAG_00122.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_PON_MAG_00079.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00006.fa,genus,,0,0,0,0,0,0,0,1.0,0.755,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA4486;f__UBA4486;g__UBA11869,
+TARA_SOC_MAG_00006.fa,genus,,0,0,0,0,0,0,0,1.0,0.913,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UA16;g__ASP10-05a,
+TARA_ANE_MAG_00043.fa,none,,0,0,0,0,0,0,0,0.625,0.00479,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSW_MAG_00033.fa,none,,0,0,0,0,0,0,0,0.0,0.00112,,too few identifiable hashes; f_ident < 10%. provide a lineage for this genome.
+TARA_ASW_MAG_00001.fa,genus,,0,0,0,0,0,0,0,1.0,0.879,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__UBA7434;g__UBA7434,
+TARA_MED_MAG_00018.fa,genus,,0,0,0,0,0,0,0,1.0,0.634,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__BACL11;g__TMED123,
+TARA_PSE_MAG_00111.fa,none,,0,0,0,0,0,0,0,0.331,0.0553,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00070.fa,genus,,0,0,0,0,0,0,0,1.0,0.863,d__Bacteria;p__Dadabacteria;c__UBA1144;o__UBA1144;f__UBA1144;g__TMED58,
+TARA_PSW_MAG_00054.fa,none,,0,0,0,0,0,0,0,0.5,0.00452,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00093.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00087.fa,genus,,0,0,0,0,0,0,0,0.998,0.777,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas_A,
+TARA_MED_MAG_00089.fa,none,,0,0,0,0,0,0,0,1.0,0.00227,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_IOS_MAG_00010.fa,genus,,0,0,0,0,0,0,0,1.0,0.806,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales_A;f__2-02-FULL-58-16_A;g__GCA-2717285,
+TARA_PSE_MAG_00068.fa,none,,0,0,0,0,0,0,0,1.0,0.00242,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_MED_MAG_00085.fa,genus,,0,0,0,0,0,0,0,1.0,0.62,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__TMED26;f__TMED26;g__TMED26,
+TARA_ION_MAG_00005.fa,none,,0,0,0,0,0,0,0,0.228,0.0649,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
+TARA_PSE_MAG_00115.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_RED_MAG_00062.fa,genus,,0,0,0,0,0,0,0,1.0,0.542,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassoarchaeaceae;g__MGIIb-O2,
+TARA_IOS_MAG_00013.fa,none,,0,0,0,0,0,0,0,0.0,0.0,,"no matches for this genome, exiting."
+TARA_ANE_MAG_00042.fa,genus,,0,0,0,0,0,0,0,0.98,0.34,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L1,
