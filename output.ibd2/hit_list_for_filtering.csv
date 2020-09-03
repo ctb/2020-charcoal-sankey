@@ -29,14 +29,14 @@ SRR6028281_bin.3.fa.gz,genus,,29423,0,0,0,0,0,29423,0.948,0.77,d__Bacteria;p__Fi
 LoombaR_2017__SID1050_bax__bin.11.fa.gz,genus,,12351,0,0,0,7286,9347,12351,0.959,0.764,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Anaeromassilibacillus,
 VogtmannE_2016__MMRS43563715ST-27-0-0__bin.70.fa.gz,genus,,6739,0,0,0,0,0,6739,0.995,0.787,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-81,
 SRS294916_20.fna.gz,genus,,4047,0,0,0,4047,4047,4047,0.993,0.709,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia,
-SRR5558047_bin.10.fa.gz,genus,,0,0,0,0,0,0,0,0.982,0.625,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,
-NielsenHB_2014__MH0094__bin.44.fa.gz,genus,,0,0,0,0,0,0,0,0.996,0.458,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,
-XieH_2016__YSZC12003_37172__bin.63.fa.gz,genus,,0,0,0,0,0,0,0,0.987,0.641,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Acutalibacter,
 LiSS_2016__FAT_DON_8-22-0-0__bin.28.fa.gz,none,,0,0,0,0,0,0,0,0.822,0.141,,too few hashes in major lineage; f_major < 20%. provide a lineage for this genome.
-GCF_001405615.1_13414_6_47_genomic.fna.gz,none,,0,0,0,0,0,0,0,1.0,1.0,,found exact match: GCF_001405615 s__Agathobacter faecis. but no provided lineage! exiting.
-GCF_000371685.1_Clos_bolt_90B3_V1_genomic.fna.gz,genus,,0,0,0,0,0,0,0,0.936,0.517,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_M,
-VatanenT_2016__G80445__bin.9.fa.gz,genus,,0,0,0,0,0,0,0,0.987,0.636,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,
-LiJ_2014__O2.UC28-1__bin.61.fa.gz,genus,,0,0,0,0,0,0,0,0.953,0.475,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E,
-GCF_000508885.1_ASM50888v1_genomic.fna.gz,none,,0,0,0,0,0,0,0,1.0,1.0,,found exact match: GCF_000508885 s__Flavonifractor sp000508885. but no provided lineage! exiting.
 SRS103987_37.fna.gz,genus,,0,0,0,0,0,0,0,0.971,0.534,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__ER4,
+GCF_001405615.1_13414_6_47_genomic.fna.gz,none,,0,0,0,0,0,0,0,1.0,1.0,,found exact match: GCF_001405615 s__Agathobacter faecis. but no provided lineage! exiting.
+LiJ_2014__O2.UC28-1__bin.61.fa.gz,genus,,0,0,0,0,0,0,0,0.953,0.475,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E,
+VatanenT_2016__G80445__bin.9.fa.gz,genus,,0,0,0,0,0,0,0,0.987,0.636,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,
+NielsenHB_2014__MH0094__bin.44.fa.gz,genus,,0,0,0,0,0,0,0,0.996,0.458,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,
+GCF_000508885.1_ASM50888v1_genomic.fna.gz,none,,0,0,0,0,0,0,0,1.0,1.0,,found exact match: GCF_000508885 s__Flavonifractor sp000508885. but no provided lineage! exiting.
+SRR5558047_bin.10.fa.gz,genus,,0,0,0,0,0,0,0,0.982,0.625,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,
+GCF_000371685.1_Clos_bolt_90B3_V1_genomic.fna.gz,genus,,0,0,0,0,0,0,0,0.936,0.517,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_M,
+XieH_2016__YSZC12003_37172__bin.63.fa.gz,genus,,0,0,0,0,0,0,0,0.987,0.641,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Acutalibacter,
 QinJ_2012__CON-091__bin.20.fa.gz,genus,,0,0,0,0,0,0,0,0.995,0.531,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,
