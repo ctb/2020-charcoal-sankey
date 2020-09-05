@@ -107,8 +107,11 @@ class GenomeSankeyFlow:
                 cnt_l.append(counts)
 
                 # calculate percent of counts.
-                pcnt = counts / self.sum_counts * 100
-                label_l.append(f'{pcnt:.1f}% of total k-mers')
+                if self.sum_counts:
+                    pcnt = counts / self.sum_counts * 100
+                    label_l.append(f'{pcnt:.1f}% of total k-mers')
+                else:
+                    label_l.append("no counts")
 
         # last but not least, put together color for the links.
         linlist = list(self.index_d.items())

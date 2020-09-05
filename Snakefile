@@ -1,7 +1,7 @@
 import glob
 from charcoal.utils import CSV_DictHelper
 
-directory = 'output.ibd2'
+directory = 'output.demo'
 hitlist = CSV_DictHelper(f'{directory}/hit_list_for_filtering.csv', 'genome')
 output_dir = f'{directory}/report'
 
